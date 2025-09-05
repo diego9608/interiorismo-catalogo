@@ -1,6 +1,22 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import type { Pieza, Categoria } from '../lib/types'
+import { catalogImages } from '../lib/images'
+
+function getImageUrl(categoria: string, index: number): string {
+  const categoryMap: Record<string, string[]> = {
+    'Sala': catalogImages.sofas,
+    'Recámara': catalogImages.recamaras,
+    'Comedor': catalogImages.comedores,
+    'Cocina': catalogImages.cocinas,
+    'Oficina': catalogImages.oficinas,
+    'Iluminación': catalogImages.iluminacion,
+    'Decoración': catalogImages.decoracion,
+  }
+  
+  const images = categoryMap[categoria] || catalogImages.decoracion
+  return images[index % images.length]
+}
 
 const categorias: Categoria[] = [
   'Sala', 'Recámara', 'Comedor', 'Cocina', 
@@ -89,7 +105,7 @@ function generatePiezas(): Pieza[] {
       materiales: data.materiales,
       medidas: data.medidas,
       color: colores[id % colores.length],
-      imagenes: [`/renders/piezas/mock-${(id % 12) + 1}.webp`],
+      imagenes: [getImageUrl(data.categoria[0] as string, id)],
       proveedor: proveedores[id % proveedores.length],
       priceBand: priceBands[id % 4],
       visible: true

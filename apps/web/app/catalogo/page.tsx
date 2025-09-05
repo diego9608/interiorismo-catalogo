@@ -1,5 +1,7 @@
 import { getPiezas } from '@/lib/data'
 import { Package } from 'lucide-react'
+import { getImageForCategory } from '@/lib/images'
+import Image from 'next/image'
 
 export default function CatalogoPage() {
   const piezas = getPiezas()
@@ -23,12 +25,16 @@ export default function CatalogoPage() {
           </div>
         ) : (
           <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-            {piezas.slice(0, 60).map((pieza) => (
+            {piezas.slice(0, 60).map((pieza, idx) => (
               <article key={pieza.id} className="card group cursor-pointer">
-                <div className="aspect-square bg-white/5 rounded-xl mb-4 overflow-hidden">
-                  <div className="w-full h-full flex items-center justify-center">
-                    <Package className="h-12 w-12 text-white/20" />
-                  </div>
+                <div className="aspect-square bg-white/5 rounded-xl mb-4 overflow-hidden relative">
+                  <Image
+                    src={getImageForCategory(pieza.categoria[0], idx)}
+                    alt={pieza.nombre}
+                    width={400}
+                    height={400}
+                    className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-300"
+                  />
                 </div>
                 
                 <h3 className="font-semibold mb-1 group-hover:text-[#D4AF37] transition-colors">

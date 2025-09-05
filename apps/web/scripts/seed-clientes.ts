@@ -1,6 +1,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import type { ClienteSimulado } from '../lib/types'
+import { catalogImages } from '../lib/images'
 
 const ciudades = [
   'Monterrey', 'CDMX', 'Guadalajara', 'Querétaro', 'Puebla', 
@@ -56,7 +57,7 @@ function generateCliente(index: number): ClienteSimulado {
     metraje: 60 + Math.floor(Math.random() * 200),
     presupuestoBand: rand(bands),
     estado: rand(estados),
-    portada: `/mock/clients/${(index % 40) + 1}.webp`,
+    portada: catalogImages.espacios[index % catalogImages.espacios.length],
     resumen: rand(resumenes),
     piezasClave: [
       'sofa-1', 'mesa-2', 'lampara-3', 'cama-4', 'buro-5'

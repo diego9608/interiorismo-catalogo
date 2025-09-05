@@ -1,6 +1,8 @@
 import { getClientes } from '@/lib/data'
 import Link from 'next/link'
 import { MapPin, Home, TrendingUp, Users } from 'lucide-react'
+import { getClientImage } from '@/lib/images'
+import Image from 'next/image'
 
 export default function ClientesPage() {
   const clientes = getClientes()
@@ -64,7 +66,7 @@ export default function ClientesPage() {
         ) : (
           <>
             <div className="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-              {clientes.slice(0, 100).map((cliente) => {
+              {clientes.slice(0, 100).map((cliente, idx) => {
                 const Icon = getProjectIcon(cliente.tipoProyecto)
                 return (
                   <Link
@@ -72,10 +74,14 @@ export default function ClientesPage() {
                     href={`/clientes/${cliente.id}`}
                     className="card group cursor-pointer"
                   >
-                    <div className="aspect-[4/3] bg-gradient-to-br from-white/10 to-transparent rounded-xl mb-4 overflow-hidden">
-                      <div className="w-full h-full flex items-center justify-center">
-                        <Icon className="h-12 w-12 text-white/20" />
-                      </div>
+                    <div className="aspect-[4/3] bg-gradient-to-br from-white/10 to-transparent rounded-xl mb-4 overflow-hidden relative">
+                      <Image
+                        src={getClientImage(idx)}
+                        alt={cliente.nombre}
+                        width={400}
+                        height={300}
+                        className="object-cover w-full h-full group-hover:scale-105 transition-transform duration-300"
+                      />
                     </div>
                     
                     <h3 className="font-semibold mb-2 group-hover:text-[#D4AF37] transition-colors">

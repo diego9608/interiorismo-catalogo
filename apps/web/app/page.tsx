@@ -1,13 +1,23 @@
 import Link from 'next/link'
 import { Button } from '@/components/ui/button'
 import { ArrowRight, Sparkles, Home, Palette } from 'lucide-react'
+import Image from 'next/image'
 
 export default function HomePage() {
   return (
     <div className="flex flex-col">
       {/* Hero Section */}
       <section className="relative min-h-[80vh] flex items-center justify-center px-4 py-20">
-        <div className="absolute inset-0 bg-gradient-to-b from-[#D4AF37]/10 to-transparent" />
+        <div className="absolute inset-0">
+          <Image
+            src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1920&q=80"
+            alt="Interior moderno"
+            fill
+            className="object-cover opacity-30"
+            priority
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-[#0B0B0D]/50 via-[#0B0B0D]/70 to-[#0B0B0D]" />
+        </div>
         
         <div className="relative max-w-6xl mx-auto text-center">
           <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-[#D4AF37]/30 bg-[#D4AF37]/10 px-4 py-2">
