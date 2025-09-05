@@ -1,0 +1,17 @@
+{
+  "id": "cliente-260",
+  "nombre": "Residencial Altavista 184",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Comercial",
+  "metraje": 176,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/21.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-23"
+}

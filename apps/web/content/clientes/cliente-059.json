@@ -1,0 +1,16 @@
+{
+  "id": "cliente-059",
+  "nombre": "Casa Juriquilla 412",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Oficina",
+  "metraje": 230,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/20.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-22"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pieza-78",
+  "nombre": "Mesa Juntas 6P Natural",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en natural del popular Mesa Juntas 6P.",
+  "tags": [
+    "corporativo",
+    "moderno",
+    "natural"
+  ],
+  "materiales": [
+    "vidrio",
+    "metal"
+  ],
+  "medidas": "200x100x75 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

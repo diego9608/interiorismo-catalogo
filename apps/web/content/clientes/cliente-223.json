@@ -1,0 +1,16 @@
+{
+  "id": "cliente-223",
+  "nombre": "Local Comercial Centro 1441",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Amueblado",
+  "metraje": 106,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/24.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-03"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-120",
+  "nombre": "Residencial Altavista 1900",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Amueblado",
+  "metraje": 244,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/1.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-15"
+}

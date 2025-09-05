@@ -1,0 +1,16 @@
+{
+  "id": "cliente-138",
+  "nombre": "Local Comercial Centro 593",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Oficina",
+  "metraje": 164,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/19.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-05"
+}

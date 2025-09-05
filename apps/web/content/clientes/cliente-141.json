@@ -1,0 +1,17 @@
+{
+  "id": "cliente-141",
+  "nombre": "Torre Platinum 932",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Home Staging",
+  "metraje": 134,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/22.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-09-17"
+}

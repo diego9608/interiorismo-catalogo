@@ -1,0 +1,17 @@
+{
+  "id": "cliente-307",
+  "nombre": "Torre Gaia 820",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Amueblado",
+  "metraje": 134,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-10-07"
+}

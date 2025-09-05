@@ -1,0 +1,16 @@
+{
+  "id": "cliente-241",
+  "nombre": "Torre Platinum 1124",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Oficina",
+  "metraje": 145,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/2.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-08"
+}

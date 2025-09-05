@@ -1,0 +1,17 @@
+{
+  "id": "cliente-129",
+  "nombre": "Villa Cumbres 1035",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Oficina",
+  "metraje": 258,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-08"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-124",
+  "nombre": "Departamento Polanco 1036",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Remodelación",
+  "metraje": 209,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/5.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-07"
+}

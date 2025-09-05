@@ -1,0 +1,24 @@
+{
+  "id": "pieza-56",
+  "nombre": "Cama Platform Queen Plata",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en plata del popular Cama Platform Queen.",
+  "tags": [
+    "minimalista",
+    "japonés",
+    "plata"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "160x200x30 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

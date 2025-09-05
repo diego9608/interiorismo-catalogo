@@ -1,0 +1,18 @@
+{
+  "id": "cliente-279",
+  "nombre": "Casa Juriquilla 1020",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Amueblado",
+  "metraje": 159,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/40.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-01"
+}

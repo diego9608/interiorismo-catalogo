@@ -1,0 +1,16 @@
+{
+  "id": "cliente-281",
+  "nombre": "Oficina Corporativa 544",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Comercial",
+  "metraje": 108,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/2.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-04"
+}

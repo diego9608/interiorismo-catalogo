@@ -1,0 +1,16 @@
+{
+  "id": "cliente-116",
+  "nombre": "Penthouse Angelópolis 805",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Remodelación",
+  "metraje": 142,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/37.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-07-23"
+}

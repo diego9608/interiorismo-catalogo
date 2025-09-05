@@ -1,0 +1,18 @@
+{
+  "id": "cliente-232",
+  "nombre": "Oficina Corporativa 624",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Remodelación",
+  "metraje": 69,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/33.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-18"
+}

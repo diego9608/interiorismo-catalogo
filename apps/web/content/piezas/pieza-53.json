@@ -1,0 +1,26 @@
+{
+  "id": "pieza-53",
+  "nombre": "Librero Industrial Nogal",
+  "categoria": [
+    "Sala",
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Librero Industrial.",
+  "tags": [
+    "industrial",
+    "urbano",
+    "nogal"
+  ],
+  "materiales": [
+    "metal",
+    "madera"
+  ],
+  "medidas": "180x40x200 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-5.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Económico",
+  "visible": true
+}

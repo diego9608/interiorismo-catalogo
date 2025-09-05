@@ -1,0 +1,17 @@
+{
+  "id": "cliente-200",
+  "nombre": "Residencial Altavista 1172",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Comercial",
+  "metraje": 234,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/1.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-08-10"
+}

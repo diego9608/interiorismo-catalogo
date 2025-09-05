@@ -1,0 +1,25 @@
+{
+  "id": "pieza-119",
+  "nombre": "Escritorio Ejecutivo Dorado",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Escritorio Ejecutivo.",
+  "tags": [
+    "profesional",
+    "amplio",
+    "dorado"
+  ],
+  "materiales": [
+    "madera",
+    "metal"
+  ],
+  "medidas": "180x80x75 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

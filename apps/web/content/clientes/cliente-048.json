@@ -1,0 +1,16 @@
+{
+  "id": "cliente-048",
+  "nombre": "Studio Santa Fe 124",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Comercial",
+  "metraje": 69,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-01-21"
+}

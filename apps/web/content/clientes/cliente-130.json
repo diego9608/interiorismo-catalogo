@@ -1,0 +1,16 @@
+{
+  "id": "cliente-130",
+  "nombre": "Oficina Corporativa 786",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Amueblado",
+  "metraje": 235,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/11.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-12"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-311",
+  "nombre": "Residencial Nova 724",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Oficina",
+  "metraje": 121,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/32.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-18"
+}

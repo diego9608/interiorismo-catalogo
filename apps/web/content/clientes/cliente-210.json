@@ -1,0 +1,17 @@
+{
+  "id": "cliente-210",
+  "nombre": "Studio Santa Fe 124",
+  "ciudad": "León",
+  "tipoProyecto": "Amueblado",
+  "metraje": 169,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/11.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-26"
+}

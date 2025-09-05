@@ -1,0 +1,16 @@
+{
+  "id": "cliente-176",
+  "nombre": "Casa Valle Real 670",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Amueblado",
+  "metraje": 63,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/17.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-17"
+}

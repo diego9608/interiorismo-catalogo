@@ -1,0 +1,18 @@
+{
+  "id": "cliente-168",
+  "nombre": "Casa Juriquilla 1960",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Amueblado",
+  "metraje": 106,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-19"
+}

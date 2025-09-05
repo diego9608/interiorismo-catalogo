@@ -1,0 +1,25 @@
+{
+  "id": "pieza-96",
+  "nombre": "Mesa Centro Nogal Plata",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en plata del popular Mesa Centro Nogal.",
+  "tags": [
+    "nórdico",
+    "natural",
+    "plata"
+  ],
+  "materiales": [
+    "nogal",
+    "metal"
+  ],
+  "medidas": "120x60x40 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

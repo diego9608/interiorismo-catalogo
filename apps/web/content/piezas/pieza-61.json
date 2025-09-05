@@ -1,0 +1,25 @@
+{
+  "id": "pieza-61",
+  "nombre": "Banco Pie de Cama Nogal",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Banco Pie de Cama.",
+  "tags": [
+    "elegante",
+    "práctico",
+    "nogal"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "120x40x45 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-030",
+  "nombre": "Loft Roma Norte 737",
+  "ciudad": "León",
+  "tipoProyecto": "Remodelación",
+  "metraje": 247,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/31.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-04"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "set-cojines-texturas-42",
+  "nombre": "Set Cojines Texturas",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Set Cojines Texturas con diseño acogedor y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Set Cojines Texturas combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "acogedor",
+    "color"
+  ],
+  "materiales": [
+    "tela",
+    "pluma"
+  ],
+  "medidas": "45x45 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

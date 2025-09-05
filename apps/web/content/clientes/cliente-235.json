@@ -1,0 +1,18 @@
+{
+  "id": "cliente-235",
+  "nombre": "Torre Platinum 102",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Oficina",
+  "metraje": 234,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/36.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-05-25"
+}

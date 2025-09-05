@@ -1,0 +1,16 @@
+{
+  "id": "cliente-167",
+  "nombre": "Departamento Polanco 1874",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Remodelación",
+  "metraje": 254,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/8.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-27"
+}

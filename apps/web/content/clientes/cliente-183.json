@@ -1,0 +1,17 @@
+{
+  "id": "cliente-183",
+  "nombre": "Penthouse Angelópolis 238",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Amueblado",
+  "metraje": 75,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/24.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-01-05"
+}

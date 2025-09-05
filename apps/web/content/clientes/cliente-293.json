@@ -1,0 +1,16 @@
+{
+  "id": "cliente-293",
+  "nombre": "Penthouse Angelópolis 1228",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 182,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/14.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-03-05"
+}

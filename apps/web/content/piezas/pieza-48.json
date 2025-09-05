@@ -1,0 +1,25 @@
+{
+  "id": "pieza-48",
+  "nombre": "Sofá Chester Cuero Plata",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en plata del popular Sofá Chester Cuero.",
+  "tags": [
+    "clásico",
+    "elegante",
+    "plata"
+  ],
+  "materiales": [
+    "cuero",
+    "madera"
+  ],
+  "medidas": "210x85x75 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

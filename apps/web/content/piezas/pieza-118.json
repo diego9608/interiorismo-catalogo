@@ -1,0 +1,25 @@
+{
+  "id": "pieza-118",
+  "nombre": "Carrito Auxiliar Natural",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en natural del popular Carrito Auxiliar.",
+  "tags": [
+    "móvil",
+    "útil",
+    "natural"
+  ],
+  "materiales": [
+    "bambú",
+    "metal"
+  ],
+  "medidas": "70x40x85 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

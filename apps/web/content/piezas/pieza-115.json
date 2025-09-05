@@ -1,0 +1,25 @@
+{
+  "id": "pieza-115",
+  "nombre": "Isla Cocina Móvil Negro",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en negro del popular Isla Cocina Móvil.",
+  "tags": [
+    "funcional",
+    "versátil",
+    "negro"
+  ],
+  "materiales": [
+    "madera",
+    "acero"
+  ],
+  "medidas": "120x60x90 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

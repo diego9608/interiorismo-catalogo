@@ -1,0 +1,17 @@
+{
+  "id": "cliente-106",
+  "nombre": "Oficina Corporativa 207",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Home Staging",
+  "metraje": 144,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-26"
+}

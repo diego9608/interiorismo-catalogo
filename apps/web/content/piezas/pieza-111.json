@@ -1,0 +1,25 @@
+{
+  "id": "pieza-111",
+  "nombre": "Silla Tapizada Velvet Dorado",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Silla Tapizada Velvet.",
+  "tags": [
+    "glamour",
+    "comfort",
+    "dorado"
+  ],
+  "materiales": [
+    "velvet",
+    "metal"
+  ],
+  "medidas": "45x50x85 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-175",
+  "nombre": "Studio Santa Fe 1349",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Oficina",
+  "metraje": 235,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-19"
+}

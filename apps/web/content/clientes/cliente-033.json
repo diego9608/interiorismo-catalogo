@@ -1,0 +1,16 @@
+{
+  "id": "cliente-033",
+  "nombre": "Studio Santa Fe 1202",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Oficina",
+  "metraje": 66,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/34.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-01-03"
+}

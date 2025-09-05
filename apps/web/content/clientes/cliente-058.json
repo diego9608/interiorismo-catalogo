@@ -1,0 +1,18 @@
+{
+  "id": "cliente-058",
+  "nombre": "Villa Cumbres 1165",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Comercial",
+  "metraje": 102,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/19.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-12-03"
+}

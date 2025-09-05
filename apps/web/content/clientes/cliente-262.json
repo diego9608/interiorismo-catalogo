@@ -1,0 +1,17 @@
+{
+  "id": "cliente-262",
+  "nombre": "Casa Valle Real 1076",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Amueblado",
+  "metraje": 241,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/23.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-16"
+}

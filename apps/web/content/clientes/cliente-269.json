@@ -1,0 +1,16 @@
+{
+  "id": "cliente-269",
+  "nombre": "Departamento Polanco 1499",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Amueblado",
+  "metraje": 164,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-03-01"
+}

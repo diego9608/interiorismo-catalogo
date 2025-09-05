@@ -1,0 +1,18 @@
+{
+  "id": "cliente-121",
+  "nombre": "Depto San Pedro 1037",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Home Staging",
+  "metraje": 134,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/2.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-01-16"
+}

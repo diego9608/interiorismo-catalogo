@@ -1,0 +1,18 @@
+{
+  "id": "cliente-061",
+  "nombre": "Penthouse Angelópolis 524",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Amueblado",
+  "metraje": 155,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/22.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-09-06"
+}

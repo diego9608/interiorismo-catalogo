@@ -1,0 +1,17 @@
+{
+  "id": "cliente-297",
+  "nombre": "PH Olivo 1976",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Home Staging",
+  "metraje": 196,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/18.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-23"
+}

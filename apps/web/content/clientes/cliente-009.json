@@ -1,0 +1,18 @@
+{
+  "id": "cliente-009",
+  "nombre": "Torre Gaia 1625",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Home Staging",
+  "metraje": 67,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-08-14"
+}

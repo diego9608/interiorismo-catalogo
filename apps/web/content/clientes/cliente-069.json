@@ -1,0 +1,17 @@
+{
+  "id": "cliente-069",
+  "nombre": "Residencial Nova 1356",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Oficina",
+  "metraje": 199,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-21"
+}

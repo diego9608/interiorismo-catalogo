@@ -1,0 +1,24 @@
+{
+  "id": "pieza-112",
+  "nombre": "Silla Madera Natural Plata",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en plata del popular Silla Madera Natural.",
+  "tags": [
+    "nórdico",
+    "eco",
+    "plata"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "45x45x80 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

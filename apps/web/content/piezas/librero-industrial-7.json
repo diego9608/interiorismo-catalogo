@@ -1,0 +1,26 @@
+{
+  "id": "librero-industrial-7",
+  "nombre": "Librero Industrial",
+  "categoria": [
+    "Sala",
+    "Oficina"
+  ],
+  "descripcionCorta": "Librero Industrial con diseño industrial y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Librero Industrial combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "industrial",
+    "urbano"
+  ],
+  "materiales": [
+    "metal",
+    "madera"
+  ],
+  "medidas": "180x40x200 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

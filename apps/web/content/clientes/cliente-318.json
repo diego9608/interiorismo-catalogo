@@ -1,0 +1,16 @@
+{
+  "id": "cliente-318",
+  "nombre": "Depto San Pedro 913",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Amueblado",
+  "metraje": 257,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/39.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-08"
+}

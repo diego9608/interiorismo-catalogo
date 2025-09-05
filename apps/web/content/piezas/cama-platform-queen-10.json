@@ -1,0 +1,24 @@
+{
+  "id": "cama-platform-queen-10",
+  "nombre": "Cama Platform Queen",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Cama Platform Queen con diseño minimalista y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Cama Platform Queen combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "minimalista",
+    "japonés"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "160x200x30 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-017",
+  "nombre": "Villa Cumbres 1761",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Comercial",
+  "metraje": 197,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/18.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-07"
+}

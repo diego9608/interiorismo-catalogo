@@ -1,0 +1,16 @@
+{
+  "id": "cliente-111",
+  "nombre": "Residencial Nova 630",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Amueblado",
+  "metraje": 251,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/32.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-02"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-026",
+  "nombre": "Departamento Polanco 190",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Oficina",
+  "metraje": 197,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-06-14"
+}

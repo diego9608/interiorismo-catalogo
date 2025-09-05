@@ -1,0 +1,16 @@
+{
+  "id": "cliente-172",
+  "nombre": "Torre Platinum 458",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Comercial",
+  "metraje": 137,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-20"
+}

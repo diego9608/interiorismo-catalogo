@@ -1,0 +1,18 @@
+{
+  "id": "cliente-132",
+  "nombre": "Departamento Polanco 355",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Oficina",
+  "metraje": 67,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-05"
+}

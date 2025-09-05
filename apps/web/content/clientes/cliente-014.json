@@ -1,0 +1,17 @@
+{
+  "id": "cliente-014",
+  "nombre": "Casa Juriquilla 1764",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Amueblado",
+  "metraje": 242,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/15.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-07-26"
+}

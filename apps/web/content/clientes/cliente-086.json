@@ -1,0 +1,16 @@
+{
+  "id": "cliente-086",
+  "nombre": "Studio Santa Fe 165",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Home Staging",
+  "metraje": 218,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/7.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-13"
+}

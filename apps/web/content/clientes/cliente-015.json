@@ -1,0 +1,17 @@
+{
+  "id": "cliente-015",
+  "nombre": "Studio Santa Fe 1209",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Home Staging",
+  "metraje": 61,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-04-08"
+}

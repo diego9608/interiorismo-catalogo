@@ -1,0 +1,17 @@
+{
+  "id": "cliente-049",
+  "nombre": "Residencial Altavista 1318",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Home Staging",
+  "metraje": 136,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-27"
+}

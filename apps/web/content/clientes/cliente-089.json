@@ -1,0 +1,18 @@
+{
+  "id": "cliente-089",
+  "nombre": "Loft Roma Norte 1074",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 152,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-08"
+}

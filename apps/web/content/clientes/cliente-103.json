@@ -1,0 +1,17 @@
+{
+  "id": "cliente-103",
+  "nombre": "Local Comercial Centro 782",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Home Staging",
+  "metraje": 227,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/24.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-20"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-066",
+  "nombre": "Penthouse Angelópolis 627",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Home Staging",
+  "metraje": 204,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-01-28"
+}

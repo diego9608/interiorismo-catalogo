@@ -1,0 +1,17 @@
+{
+  "id": "cliente-248",
+  "nombre": "Local Comercial Centro 244",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Comercial",
+  "metraje": 119,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-06-26"
+}

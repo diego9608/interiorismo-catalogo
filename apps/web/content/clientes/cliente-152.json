@@ -1,0 +1,18 @@
+{
+  "id": "cliente-152",
+  "nombre": "Casa Juriquilla 727",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Remodelación",
+  "metraje": 92,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/33.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-06-26"
+}

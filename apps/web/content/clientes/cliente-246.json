@@ -1,0 +1,17 @@
+{
+  "id": "cliente-246",
+  "nombre": "Penthouse Angelópolis 1725",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Remodelación",
+  "metraje": 245,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/7.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-16"
+}

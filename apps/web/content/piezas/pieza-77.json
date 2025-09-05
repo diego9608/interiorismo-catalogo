@@ -1,0 +1,24 @@
+{
+  "id": "pieza-77",
+  "nombre": "Archivero 4 Gavetas Nogal",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Archivero 4 Gavetas.",
+  "tags": [
+    "organizador",
+    "seguro",
+    "nogal"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "45x60x132 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-5.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Económico",
+  "visible": true
+}

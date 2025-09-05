@@ -1,0 +1,16 @@
+{
+  "id": "cliente-268",
+  "nombre": "Local Comercial Centro 830",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Comercial",
+  "metraje": 190,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/29.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-12"
+}

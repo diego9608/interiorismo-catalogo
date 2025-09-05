@@ -1,0 +1,16 @@
+{
+  "id": "cliente-322",
+  "nombre": "Residencial Nova 200",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Oficina",
+  "metraje": 152,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/3.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-03"
+}

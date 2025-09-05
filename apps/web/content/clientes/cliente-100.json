@@ -1,0 +1,18 @@
+{
+  "id": "cliente-100",
+  "nombre": "Oficina Corporativa 529",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 155,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/21.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-05-24"
+}

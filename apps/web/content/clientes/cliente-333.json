@@ -1,0 +1,17 @@
+{
+  "id": "cliente-333",
+  "nombre": "Residencial Nova 1445",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Remodelación",
+  "metraje": 244,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/14.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-13"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-247",
+  "nombre": "Local Comercial Centro 1586",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 195,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/8.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-20"
+}

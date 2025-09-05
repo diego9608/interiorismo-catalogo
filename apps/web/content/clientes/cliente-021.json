@@ -1,0 +1,16 @@
+{
+  "id": "cliente-021",
+  "nombre": "Casa Juriquilla 404",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Home Staging",
+  "metraje": 159,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/22.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-18"
+}

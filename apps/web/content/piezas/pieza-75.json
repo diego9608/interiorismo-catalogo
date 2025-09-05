@@ -1,0 +1,25 @@
+{
+  "id": "pieza-75",
+  "nombre": "Silla Ergonómica Mesh Negro",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en negro del popular Silla Ergonómica Mesh.",
+  "tags": [
+    "comfort",
+    "salud",
+    "negro"
+  ],
+  "materiales": [
+    "mesh",
+    "plástico"
+  ],
+  "medidas": "65x65x120 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

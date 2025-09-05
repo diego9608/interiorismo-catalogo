@@ -1,0 +1,17 @@
+{
+  "id": "cliente-306",
+  "nombre": "Casa Juriquilla 546",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Amueblado",
+  "metraje": 194,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-01-09"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cliente-128",
+  "nombre": "Casa Valle Real 654",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Remodelación",
+  "metraje": 235,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-24"
+}

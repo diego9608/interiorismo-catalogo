@@ -1,0 +1,25 @@
+{
+  "id": "pieza-87",
+  "nombre": "Cuadro Abstracto XL Dorado",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Cuadro Abstracto XL.",
+  "tags": [
+    "arte",
+    "moderno",
+    "dorado"
+  ],
+  "materiales": [
+    "canvas",
+    "madera"
+  ],
+  "medidas": "120x80 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

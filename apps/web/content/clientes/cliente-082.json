@@ -1,0 +1,17 @@
+{
+  "id": "cliente-082",
+  "nombre": "Oficina Corporativa 1522",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Remodelación",
+  "metraje": 255,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/3.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-06-02"
+}

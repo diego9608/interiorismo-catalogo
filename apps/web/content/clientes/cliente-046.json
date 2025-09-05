@@ -1,0 +1,16 @@
+{
+  "id": "cliente-046",
+  "nombre": "Departamento Polanco 918",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Amueblado",
+  "metraje": 205,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/7.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-21"
+}

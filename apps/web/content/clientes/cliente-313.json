@@ -1,0 +1,17 @@
+{
+  "id": "cliente-313",
+  "nombre": "Casa Valle Real 908",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Amueblado",
+  "metraje": 91,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/34.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-07-12"
+}

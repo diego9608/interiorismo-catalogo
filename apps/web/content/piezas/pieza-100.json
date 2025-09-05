@@ -1,0 +1,25 @@
+{
+  "id": "pieza-100",
+  "nombre": "Sillón Individual Oslo Blanco",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Sillón Individual Oslo.",
+  "tags": [
+    "nórdico",
+    "acogedor",
+    "blanco"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "80x75x85 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lámpara-colgante-disco-33",
+  "nombre": "Lámpara Colgante Disco",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Lámpara Colgante Disco con diseño moderno y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Lámpara Colgante Disco combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "moderno",
+    "statement"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "40x40x30 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

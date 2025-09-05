@@ -1,0 +1,16 @@
+{
+  "id": "cliente-189",
+  "nombre": "Studio Santa Fe 2010",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Home Staging",
+  "metraje": 251,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-02"
+}

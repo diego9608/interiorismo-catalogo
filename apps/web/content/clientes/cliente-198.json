@@ -1,0 +1,17 @@
+{
+  "id": "cliente-198",
+  "nombre": "PH Olivo 502",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Home Staging",
+  "metraje": 200,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/39.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-11"
+}

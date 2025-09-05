@@ -1,0 +1,18 @@
+{
+  "id": "cliente-280",
+  "nombre": "Casa Valle Real 100",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Home Staging",
+  "metraje": 239,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/1.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-01-25"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cliente-295",
+  "nombre": "Departamento Polanco 498",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Comercial",
+  "metraje": 217,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-28"
+}

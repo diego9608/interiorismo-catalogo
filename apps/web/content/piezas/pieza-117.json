@@ -1,0 +1,24 @@
+{
+  "id": "pieza-117",
+  "nombre": "Estante Especiero Nogal",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Estante Especiero.",
+  "tags": [
+    "organizador",
+    "práctico",
+    "nogal"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "60x15x80 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

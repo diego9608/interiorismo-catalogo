@@ -1,0 +1,18 @@
+{
+  "id": "cliente-209",
+  "nombre": "Depto San Pedro 1588",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Remodelación",
+  "metraje": 127,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-08-25"
+}

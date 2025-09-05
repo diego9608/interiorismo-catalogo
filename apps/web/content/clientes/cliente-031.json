@@ -1,0 +1,16 @@
+{
+  "id": "cliente-031",
+  "nombre": "PH Olivo 1287",
+  "ciudad": "León",
+  "tipoProyecto": "Home Staging",
+  "metraje": 168,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/32.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-06"
+}

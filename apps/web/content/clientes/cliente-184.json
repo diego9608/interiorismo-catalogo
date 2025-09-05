@@ -1,0 +1,16 @@
+{
+  "id": "cliente-184",
+  "nombre": "Residencial Nova 165",
+  "ciudad": "León",
+  "tipoProyecto": "Home Staging",
+  "metraje": 173,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-17"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-226",
+  "nombre": "Penthouse Angelópolis 1718",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Home Staging",
+  "metraje": 92,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-11"
+}

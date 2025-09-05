@@ -1,0 +1,17 @@
+{
+  "id": "cliente-154",
+  "nombre": "Residencial Nova 442",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Comercial",
+  "metraje": 245,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/35.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-10-06"
+}

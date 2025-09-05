@@ -1,0 +1,17 @@
+{
+  "id": "cliente-140",
+  "nombre": "Depto San Pedro 1791",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Amueblado",
+  "metraje": 211,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/21.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-24"
+}

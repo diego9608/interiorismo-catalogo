@@ -1,0 +1,16 @@
+{
+  "id": "cliente-145",
+  "nombre": "Residencial Altavista 1623",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Home Staging",
+  "metraje": 250,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/26.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-13"
+}

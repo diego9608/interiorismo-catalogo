@@ -1,0 +1,16 @@
+{
+  "id": "cliente-109",
+  "nombre": "Residencial Nova 585",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Remodelación",
+  "metraje": 89,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-04"
+}

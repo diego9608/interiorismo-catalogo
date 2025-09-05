@@ -1,0 +1,25 @@
+{
+  "id": "pieza-64",
+  "nombre": "Mesa Redonda Mármol Plata",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en plata del popular Mesa Redonda Mármol.",
+  "tags": [
+    "luxury",
+    "elegante",
+    "plata"
+  ],
+  "materiales": [
+    "mármol",
+    "metal"
+  ],
+  "medidas": "120x120x75 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

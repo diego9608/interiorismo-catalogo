@@ -1,0 +1,25 @@
+{
+  "id": "barra-desayunador-24",
+  "nombre": "Barra Desayunador",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Barra Desayunador con diseño moderno y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Barra Desayunador combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "moderno",
+    "compacto"
+  ],
+  "materiales": [
+    "cuarzo",
+    "metal"
+  ],
+  "medidas": "180x40x110 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

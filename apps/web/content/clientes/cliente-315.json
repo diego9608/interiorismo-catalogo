@@ -1,0 +1,18 @@
+{
+  "id": "cliente-315",
+  "nombre": "Villa Cumbres 1808",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Home Staging",
+  "metraje": 220,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/36.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-18"
+}

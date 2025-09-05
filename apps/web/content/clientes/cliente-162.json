@@ -1,0 +1,17 @@
+{
+  "id": "cliente-162",
+  "nombre": "Residencial Altavista 2055",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Oficina",
+  "metraje": 154,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/3.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-06-12"
+}

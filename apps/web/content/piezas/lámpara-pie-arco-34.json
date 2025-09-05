@@ -1,0 +1,25 @@
+{
+  "id": "lámpara-pie-arco-34",
+  "nombre": "Lámpara Pie Arco",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Lámpara Pie Arco con diseño elegante y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Lámpara Pie Arco combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "elegante",
+    "funcional"
+  ],
+  "materiales": [
+    "metal",
+    "tela"
+  ],
+  "medidas": "180x40x220 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-325",
+  "nombre": "Penthouse Angelópolis 1217",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Remodelación",
+  "metraje": 252,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/6.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-01-18"
+}

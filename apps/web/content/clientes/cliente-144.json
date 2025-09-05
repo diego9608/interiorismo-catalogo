@@ -1,0 +1,18 @@
+{
+  "id": "cliente-144",
+  "nombre": "Departamento Polanco 2052",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Oficina",
+  "metraje": 234,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-19"
+}

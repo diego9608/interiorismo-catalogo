@@ -1,0 +1,18 @@
+{
+  "id": "cliente-207",
+  "nombre": "Studio Santa Fe 947",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Remodelación",
+  "metraje": 166,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/8.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-09-02"
+}

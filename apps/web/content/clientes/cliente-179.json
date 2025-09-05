@@ -1,0 +1,16 @@
+{
+  "id": "cliente-179",
+  "nombre": "Villa Cumbres 300",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Amueblado",
+  "metraje": 130,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/20.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-26"
+}

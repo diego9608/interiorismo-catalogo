@@ -1,0 +1,16 @@
+{
+  "id": "cliente-146",
+  "nombre": "Residencial Altavista 145",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Remodelación",
+  "metraje": 225,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-21"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-289",
+  "nombre": "Studio Santa Fe 617",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Home Staging",
+  "metraje": 234,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-03-21"
+}

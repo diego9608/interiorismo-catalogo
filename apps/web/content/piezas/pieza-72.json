@@ -1,0 +1,25 @@
+{
+  "id": "pieza-72",
+  "nombre": "Carrito Auxiliar Plata",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en plata del popular Carrito Auxiliar.",
+  "tags": [
+    "móvil",
+    "útil",
+    "plata"
+  ],
+  "materiales": [
+    "bambú",
+    "metal"
+  ],
+  "medidas": "70x40x85 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-025",
+  "nombre": "Villa Cumbres 1933",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Comercial",
+  "metraje": 103,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/26.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-05"
+}

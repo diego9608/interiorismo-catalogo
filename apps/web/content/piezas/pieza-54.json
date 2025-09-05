@@ -1,0 +1,25 @@
+{
+  "id": "pieza-54",
+  "nombre": "Sillón Individual Oslo Natural",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en natural del popular Sillón Individual Oslo.",
+  "tags": [
+    "nórdico",
+    "acogedor",
+    "natural"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "80x75x85 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

@@ -1,0 +1,4222 @@
+{
+  "clientes": [
+    {
+      "id": "cliente-001",
+      "nombre": "PH Olivo 1965",
+      "ciudad": "La Paz",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-002",
+      "nombre": "Torre Platinum 778",
+      "ciudad": "Mérida",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-003",
+      "nombre": "Residencial Nova 1826",
+      "ciudad": "León",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-004",
+      "nombre": "Residencial Nova 2026",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-005",
+      "nombre": "Studio Santa Fe 1353",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-006",
+      "nombre": "Residencial Nova 358",
+      "ciudad": "Monterrey",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-007",
+      "nombre": "Casa Juriquilla 1979",
+      "ciudad": "Tijuana",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-008",
+      "nombre": "Depto San Pedro 790",
+      "ciudad": "Querétaro",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-009",
+      "nombre": "Torre Gaia 1625",
+      "ciudad": "Tijuana",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-010",
+      "nombre": "Departamento Polanco 1187",
+      "ciudad": "Monterrey",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-011",
+      "nombre": "Casa Valle Real 1691",
+      "ciudad": "La Paz",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-012",
+      "nombre": "Loft Roma Norte 1041",
+      "ciudad": "La Paz",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-013",
+      "nombre": "PH Olivo 1100",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-014",
+      "nombre": "Casa Juriquilla 1764",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-015",
+      "nombre": "Studio Santa Fe 1209",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-016",
+      "nombre": "Penthouse Angelópolis 1253",
+      "ciudad": "Tijuana",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-017",
+      "nombre": "Villa Cumbres 1761",
+      "ciudad": "La Paz",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-018",
+      "nombre": "Residencial Altavista 305",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-019",
+      "nombre": "Penthouse Angelópolis 1096",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-020",
+      "nombre": "Casa Valle Real 1964",
+      "ciudad": "Chihuahua",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-021",
+      "nombre": "Casa Juriquilla 404",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-022",
+      "nombre": "Residencial Altavista 1243",
+      "ciudad": "Cancún",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-023",
+      "nombre": "Oficina Corporativa 1011",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-024",
+      "nombre": "Oficina Corporativa 334",
+      "ciudad": "León",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-025",
+      "nombre": "Villa Cumbres 1933",
+      "ciudad": "Mérida",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-026",
+      "nombre": "Departamento Polanco 190",
+      "ciudad": "Toluca",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-027",
+      "nombre": "Penthouse Angelópolis 1745",
+      "ciudad": "Tijuana",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-028",
+      "nombre": "Penthouse Angelópolis 1963",
+      "ciudad": "León",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-029",
+      "nombre": "Penthouse Angelópolis 933",
+      "ciudad": "Chihuahua",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-030",
+      "nombre": "Loft Roma Norte 737",
+      "ciudad": "León",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-031",
+      "nombre": "PH Olivo 1287",
+      "ciudad": "León",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-032",
+      "nombre": "Casa Valle Real 1036",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-033",
+      "nombre": "Studio Santa Fe 1202",
+      "ciudad": "Cancún",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-034",
+      "nombre": "Oficina Corporativa 1992",
+      "ciudad": "Puebla",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-035",
+      "nombre": "Residencial Nova 1326",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-036",
+      "nombre": "Residencial Altavista 381",
+      "ciudad": "Guadalajara",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-037",
+      "nombre": "Local Comercial Centro 2060",
+      "ciudad": "Mérida",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-038",
+      "nombre": "Depto San Pedro 910",
+      "ciudad": "León",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-039",
+      "nombre": "Villa Cumbres 959",
+      "ciudad": "Puebla",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-040",
+      "nombre": "Loft Roma Norte 1361",
+      "ciudad": "La Paz",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-041",
+      "nombre": "Residencial Altavista 682",
+      "ciudad": "León",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-042",
+      "nombre": "Local Comercial Centro 538",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-043",
+      "nombre": "Villa Cumbres 1643",
+      "ciudad": "Tijuana",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-044",
+      "nombre": "Residencial Altavista 320",
+      "ciudad": "CDMX",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-045",
+      "nombre": "PH Olivo 1275",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-046",
+      "nombre": "Departamento Polanco 918",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-047",
+      "nombre": "Residencial Altavista 661",
+      "ciudad": "Chihuahua",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-048",
+      "nombre": "Studio Santa Fe 124",
+      "ciudad": "Guadalajara",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-049",
+      "nombre": "Residencial Altavista 1318",
+      "ciudad": "Monterrey",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-050",
+      "nombre": "Villa Cumbres 1495",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-051",
+      "nombre": "Depto San Pedro 1513",
+      "ciudad": "Oaxaca",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-052",
+      "nombre": "Oficina Corporativa 536",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-053",
+      "nombre": "Local Comercial Centro 1100",
+      "ciudad": "Oaxaca",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-054",
+      "nombre": "Villa Cumbres 1668",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-055",
+      "nombre": "Penthouse Angelópolis 1772",
+      "ciudad": "Tijuana",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-056",
+      "nombre": "Loft Roma Norte 432",
+      "ciudad": "Toluca",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-057",
+      "nombre": "Torre Gaia 940",
+      "ciudad": "CDMX",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-058",
+      "nombre": "Villa Cumbres 1165",
+      "ciudad": "Cancún",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-059",
+      "nombre": "Casa Juriquilla 412",
+      "ciudad": "Puebla",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-060",
+      "nombre": "Villa Cumbres 1476",
+      "ciudad": "León",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-061",
+      "nombre": "Penthouse Angelópolis 524",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-062",
+      "nombre": "Oficina Corporativa 366",
+      "ciudad": "Guadalajara",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-063",
+      "nombre": "Residencial Nova 1937",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-064",
+      "nombre": "Studio Santa Fe 504",
+      "ciudad": "Guadalajara",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-065",
+      "nombre": "Oficina Corporativa 1513",
+      "ciudad": "Puebla",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-066",
+      "nombre": "Penthouse Angelópolis 627",
+      "ciudad": "Guadalajara",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-067",
+      "nombre": "PH Olivo 276",
+      "ciudad": "Querétaro",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-068",
+      "nombre": "Departamento Polanco 1151",
+      "ciudad": "Puebla",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-069",
+      "nombre": "Residencial Nova 1356",
+      "ciudad": "Querétaro",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-070",
+      "nombre": "Casa Juriquilla 108",
+      "ciudad": "Mérida",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-071",
+      "nombre": "Residencial Nova 339",
+      "ciudad": "Monterrey",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-072",
+      "nombre": "Residencial Nova 1297",
+      "ciudad": "Mérida",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-073",
+      "nombre": "Loft Roma Norte 1838",
+      "ciudad": "Tijuana",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-074",
+      "nombre": "Departamento Polanco 1885",
+      "ciudad": "León",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-075",
+      "nombre": "Penthouse Angelópolis 797",
+      "ciudad": "Querétaro",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-076",
+      "nombre": "Departamento Polanco 1257",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-077",
+      "nombre": "Studio Santa Fe 1846",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-078",
+      "nombre": "Studio Santa Fe 1559",
+      "ciudad": "La Paz",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-079",
+      "nombre": "Torre Gaia 1004",
+      "ciudad": "CDMX",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-080",
+      "nombre": "PH Olivo 1559",
+      "ciudad": "Chihuahua",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-081",
+      "nombre": "Torre Platinum 567",
+      "ciudad": "CDMX",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-082",
+      "nombre": "Oficina Corporativa 1522",
+      "ciudad": "Monterrey",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-083",
+      "nombre": "Torre Gaia 1439",
+      "ciudad": "Monterrey",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-084",
+      "nombre": "Torre Gaia 367",
+      "ciudad": "León",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-085",
+      "nombre": "Depto San Pedro 1005",
+      "ciudad": "Oaxaca",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-086",
+      "nombre": "Studio Santa Fe 165",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-087",
+      "nombre": "Torre Gaia 1595",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-088",
+      "nombre": "Residencial Altavista 1630",
+      "ciudad": "Chihuahua",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-089",
+      "nombre": "Loft Roma Norte 1074",
+      "ciudad": "Toluca",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-090",
+      "nombre": "Casa Valle Real 396",
+      "ciudad": "Chihuahua",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-091",
+      "nombre": "Residencial Altavista 484",
+      "ciudad": "Querétaro",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-092",
+      "nombre": "PH Olivo 673",
+      "ciudad": "Cancún",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-093",
+      "nombre": "Torre Platinum 397",
+      "ciudad": "Oaxaca",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-094",
+      "nombre": "Oficina Corporativa 1837",
+      "ciudad": "Monterrey",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-095",
+      "nombre": "Torre Platinum 488",
+      "ciudad": "Querétaro",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-096",
+      "nombre": "Oficina Corporativa 1282",
+      "ciudad": "Toluca",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-097",
+      "nombre": "Residencial Nova 1811",
+      "ciudad": "León",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-098",
+      "nombre": "Penthouse Angelópolis 800",
+      "ciudad": "Puebla",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-099",
+      "nombre": "Studio Santa Fe 404",
+      "ciudad": "Querétaro",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-100",
+      "nombre": "Oficina Corporativa 529",
+      "ciudad": "Oaxaca",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-101",
+      "nombre": "Villa Cumbres 1920",
+      "ciudad": "León",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-102",
+      "nombre": "Casa Valle Real 639",
+      "ciudad": "Toluca",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-103",
+      "nombre": "Local Comercial Centro 782",
+      "ciudad": "Chihuahua",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-104",
+      "nombre": "Residencial Altavista 1977",
+      "ciudad": "León",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-105",
+      "nombre": "PH Olivo 1324",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-106",
+      "nombre": "Oficina Corporativa 207",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-107",
+      "nombre": "Studio Santa Fe 880",
+      "ciudad": "Cancún",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-108",
+      "nombre": "Studio Santa Fe 1123",
+      "ciudad": "Cancún",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-109",
+      "nombre": "Residencial Nova 585",
+      "ciudad": "CDMX",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-110",
+      "nombre": "Depto San Pedro 1892",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-111",
+      "nombre": "Residencial Nova 630",
+      "ciudad": "Chihuahua",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-112",
+      "nombre": "Torre Platinum 1162",
+      "ciudad": "Chihuahua",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-113",
+      "nombre": "Casa Juriquilla 842",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-114",
+      "nombre": "Casa Valle Real 1821",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-115",
+      "nombre": "Torre Platinum 584",
+      "ciudad": "La Paz",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-116",
+      "nombre": "Penthouse Angelópolis 805",
+      "ciudad": "Mérida",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-117",
+      "nombre": "Departamento Polanco 2024",
+      "ciudad": "Toluca",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-118",
+      "nombre": "Studio Santa Fe 988",
+      "ciudad": "Toluca",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-119",
+      "nombre": "Local Comercial Centro 403",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-120",
+      "nombre": "Residencial Altavista 1900",
+      "ciudad": "Cancún",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-121",
+      "nombre": "Depto San Pedro 1037",
+      "ciudad": "Mérida",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-122",
+      "nombre": "Departamento Polanco 1910",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-123",
+      "nombre": "Villa Cumbres 1059",
+      "ciudad": "La Paz",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-124",
+      "nombre": "Departamento Polanco 1036",
+      "ciudad": "Mérida",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-125",
+      "nombre": "Villa Cumbres 1123",
+      "ciudad": "Tijuana",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-126",
+      "nombre": "Casa Valle Real 1935",
+      "ciudad": "Monterrey",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-127",
+      "nombre": "Villa Cumbres 1932",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-128",
+      "nombre": "Casa Valle Real 654",
+      "ciudad": "Oaxaca",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-129",
+      "nombre": "Villa Cumbres 1035",
+      "ciudad": "Oaxaca",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-130",
+      "nombre": "Oficina Corporativa 786",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-131",
+      "nombre": "Villa Cumbres 966",
+      "ciudad": "Querétaro",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-132",
+      "nombre": "Departamento Polanco 355",
+      "ciudad": "Oaxaca",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-133",
+      "nombre": "Casa Valle Real 413",
+      "ciudad": "CDMX",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-134",
+      "nombre": "Depto San Pedro 1520",
+      "ciudad": "Monterrey",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-135",
+      "nombre": "Depto San Pedro 1958",
+      "ciudad": "Puebla",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-136",
+      "nombre": "Loft Roma Norte 719",
+      "ciudad": "Chihuahua",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-137",
+      "nombre": "Local Comercial Centro 1728",
+      "ciudad": "Tijuana",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-138",
+      "nombre": "Local Comercial Centro 593",
+      "ciudad": "Guadalajara",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-139",
+      "nombre": "Villa Cumbres 1735",
+      "ciudad": "CDMX",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-140",
+      "nombre": "Depto San Pedro 1791",
+      "ciudad": "Mérida",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-141",
+      "nombre": "Torre Platinum 932",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-142",
+      "nombre": "Depto San Pedro 1776",
+      "ciudad": "Oaxaca",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-143",
+      "nombre": "Torre Platinum 413",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-144",
+      "nombre": "Departamento Polanco 2052",
+      "ciudad": "Cancún",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-145",
+      "nombre": "Residencial Altavista 1623",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-146",
+      "nombre": "Residencial Altavista 145",
+      "ciudad": "La Paz",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-147",
+      "nombre": "Oficina Corporativa 408",
+      "ciudad": "Oaxaca",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-148",
+      "nombre": "Torre Platinum 1346",
+      "ciudad": "Chihuahua",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-149",
+      "nombre": "PH Olivo 1811",
+      "ciudad": "Puebla",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-150",
+      "nombre": "Loft Roma Norte 991",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-151",
+      "nombre": "Villa Cumbres 1650",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-152",
+      "nombre": "Casa Juriquilla 727",
+      "ciudad": "Oaxaca",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-153",
+      "nombre": "Oficina Corporativa 1722",
+      "ciudad": "CDMX",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-154",
+      "nombre": "Residencial Nova 442",
+      "ciudad": "Oaxaca",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-155",
+      "nombre": "Torre Platinum 491",
+      "ciudad": "Chihuahua",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-156",
+      "nombre": "Local Comercial Centro 1467",
+      "ciudad": "León",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-157",
+      "nombre": "Casa Valle Real 1172",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-158",
+      "nombre": "PH Olivo 1538",
+      "ciudad": "Querétaro",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-159",
+      "nombre": "Villa Cumbres 1719",
+      "ciudad": "Toluca",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-160",
+      "nombre": "Studio Santa Fe 2059",
+      "ciudad": "Oaxaca",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-161",
+      "nombre": "Penthouse Angelópolis 1668",
+      "ciudad": "Puebla",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-162",
+      "nombre": "Residencial Altavista 2055",
+      "ciudad": "Toluca",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-163",
+      "nombre": "Torre Gaia 365",
+      "ciudad": "León",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-164",
+      "nombre": "Penthouse Angelópolis 1882",
+      "ciudad": "La Paz",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-165",
+      "nombre": "Penthouse Angelópolis 817",
+      "ciudad": "La Paz",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-166",
+      "nombre": "PH Olivo 1416",
+      "ciudad": "CDMX",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-167",
+      "nombre": "Departamento Polanco 1874",
+      "ciudad": "La Paz",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-168",
+      "nombre": "Casa Juriquilla 1960",
+      "ciudad": "CDMX",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-169",
+      "nombre": "Residencial Altavista 1242",
+      "ciudad": "CDMX",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-170",
+      "nombre": "Casa Juriquilla 1991",
+      "ciudad": "Oaxaca",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-171",
+      "nombre": "Casa Valle Real 512",
+      "ciudad": "Tijuana",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-172",
+      "nombre": "Torre Platinum 458",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-173",
+      "nombre": "Penthouse Angelópolis 709",
+      "ciudad": "Toluca",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-174",
+      "nombre": "Torre Gaia 119",
+      "ciudad": "CDMX",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-175",
+      "nombre": "Studio Santa Fe 1349",
+      "ciudad": "Cancún",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-176",
+      "nombre": "Casa Valle Real 670",
+      "ciudad": "Mérida",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-177",
+      "nombre": "Torre Platinum 1536",
+      "ciudad": "La Paz",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-178",
+      "nombre": "Oficina Corporativa 1087",
+      "ciudad": "León",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-179",
+      "nombre": "Villa Cumbres 300",
+      "ciudad": "Tijuana",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-180",
+      "nombre": "Residencial Altavista 390",
+      "ciudad": "Guadalajara",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-181",
+      "nombre": "Depto San Pedro 1159",
+      "ciudad": "CDMX",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-182",
+      "nombre": "Residencial Altavista 1411",
+      "ciudad": "León",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-183",
+      "nombre": "Penthouse Angelópolis 238",
+      "ciudad": "CDMX",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-184",
+      "nombre": "Residencial Nova 165",
+      "ciudad": "León",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-185",
+      "nombre": "Residencial Nova 694",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-186",
+      "nombre": "Depto San Pedro 2058",
+      "ciudad": "La Paz",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-187",
+      "nombre": "Villa Cumbres 1103",
+      "ciudad": "Querétaro",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-188",
+      "nombre": "Local Comercial Centro 1997",
+      "ciudad": "Monterrey",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-189",
+      "nombre": "Studio Santa Fe 2010",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-190",
+      "nombre": "Casa Valle Real 1426",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-191",
+      "nombre": "Villa Cumbres 1557",
+      "ciudad": "Oaxaca",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-192",
+      "nombre": "Loft Roma Norte 1008",
+      "ciudad": "Cancún",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-193",
+      "nombre": "PH Olivo 1676",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-194",
+      "nombre": "Torre Platinum 1452",
+      "ciudad": "Cancún",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-195",
+      "nombre": "Torre Gaia 756",
+      "ciudad": "Querétaro",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-196",
+      "nombre": "Casa Juriquilla 1682",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-197",
+      "nombre": "Loft Roma Norte 427",
+      "ciudad": "Guadalajara",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-198",
+      "nombre": "PH Olivo 502",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-199",
+      "nombre": "Departamento Polanco 1306",
+      "ciudad": "CDMX",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-200",
+      "nombre": "Residencial Altavista 1172",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-201",
+      "nombre": "Torre Platinum 1420",
+      "ciudad": "Toluca",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-202",
+      "nombre": "Casa Juriquilla 2000",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-203",
+      "nombre": "Torre Gaia 138",
+      "ciudad": "León",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-204",
+      "nombre": "Loft Roma Norte 1966",
+      "ciudad": "Cancún",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-205",
+      "nombre": "Depto San Pedro 737",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-206",
+      "nombre": "Torre Platinum 626",
+      "ciudad": "Oaxaca",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-207",
+      "nombre": "Studio Santa Fe 947",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-208",
+      "nombre": "Studio Santa Fe 1242",
+      "ciudad": "Querétaro",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-209",
+      "nombre": "Depto San Pedro 1588",
+      "ciudad": "Guadalajara",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-210",
+      "nombre": "Studio Santa Fe 124",
+      "ciudad": "León",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-211",
+      "nombre": "Torre Gaia 631",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-212",
+      "nombre": "Oficina Corporativa 551",
+      "ciudad": "Monterrey",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-213",
+      "nombre": "Torre Gaia 1258",
+      "ciudad": "CDMX",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-214",
+      "nombre": "Oficina Corporativa 662",
+      "ciudad": "La Paz",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-215",
+      "nombre": "PH Olivo 289",
+      "ciudad": "Mérida",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-216",
+      "nombre": "Casa Valle Real 704",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-217",
+      "nombre": "Casa Valle Real 367",
+      "ciudad": "Oaxaca",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-218",
+      "nombre": "Local Comercial Centro 952",
+      "ciudad": "Cancún",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-219",
+      "nombre": "Villa Cumbres 587",
+      "ciudad": "León",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-220",
+      "nombre": "Loft Roma Norte 1832",
+      "ciudad": "CDMX",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-221",
+      "nombre": "Local Comercial Centro 275",
+      "ciudad": "Monterrey",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-222",
+      "nombre": "Residencial Altavista 561",
+      "ciudad": "Toluca",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-223",
+      "nombre": "Local Comercial Centro 1441",
+      "ciudad": "La Paz",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-224",
+      "nombre": "Villa Cumbres 1156",
+      "ciudad": "La Paz",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-225",
+      "nombre": "Torre Gaia 737",
+      "ciudad": "Tijuana",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-226",
+      "nombre": "Penthouse Angelópolis 1718",
+      "ciudad": "Monterrey",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-227",
+      "nombre": "Departamento Polanco 1165",
+      "ciudad": "Oaxaca",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-228",
+      "nombre": "Residencial Nova 1047",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-229",
+      "nombre": "Residencial Altavista 297",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-230",
+      "nombre": "Loft Roma Norte 110",
+      "ciudad": "Puebla",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-231",
+      "nombre": "Residencial Altavista 1022",
+      "ciudad": "Guadalajara",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-232",
+      "nombre": "Oficina Corporativa 624",
+      "ciudad": "Toluca",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-233",
+      "nombre": "Penthouse Angelópolis 1703",
+      "ciudad": "Cancún",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-234",
+      "nombre": "Residencial Altavista 1485",
+      "ciudad": "Tijuana",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-235",
+      "nombre": "Torre Platinum 102",
+      "ciudad": "CDMX",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-236",
+      "nombre": "Torre Gaia 847",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-237",
+      "nombre": "Studio Santa Fe 1858",
+      "ciudad": "La Paz",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-238",
+      "nombre": "Oficina Corporativa 1699",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-239",
+      "nombre": "Oficina Corporativa 1478",
+      "ciudad": "Cancún",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-240",
+      "nombre": "Penthouse Angelópolis 1842",
+      "ciudad": "CDMX",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-241",
+      "nombre": "Torre Platinum 1124",
+      "ciudad": "Toluca",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-242",
+      "nombre": "Villa Cumbres 894",
+      "ciudad": "Tijuana",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-243",
+      "nombre": "Torre Platinum 748",
+      "ciudad": "Guadalajara",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-244",
+      "nombre": "Villa Cumbres 1450",
+      "ciudad": "Querétaro",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-245",
+      "nombre": "Casa Juriquilla 1223",
+      "ciudad": "CDMX",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-246",
+      "nombre": "Penthouse Angelópolis 1725",
+      "ciudad": "Tijuana",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-247",
+      "nombre": "Local Comercial Centro 1586",
+      "ciudad": "Oaxaca",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-248",
+      "nombre": "Local Comercial Centro 244",
+      "ciudad": "Mérida",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-249",
+      "nombre": "Residencial Altavista 557",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-250",
+      "nombre": "Torre Gaia 371",
+      "ciudad": "León",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-251",
+      "nombre": "Studio Santa Fe 863",
+      "ciudad": "Chihuahua",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-252",
+      "nombre": "Residencial Nova 1953",
+      "ciudad": "Puebla",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-253",
+      "nombre": "PH Olivo 1300",
+      "ciudad": "Oaxaca",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-254",
+      "nombre": "PH Olivo 449",
+      "ciudad": "Toluca",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-255",
+      "nombre": "Penthouse Angelópolis 1336",
+      "ciudad": "Cancún",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-256",
+      "nombre": "Residencial Altavista 940",
+      "ciudad": "Oaxaca",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-257",
+      "nombre": "Villa Cumbres 1078",
+      "ciudad": "Puebla",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-258",
+      "nombre": "Departamento Polanco 1148",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-259",
+      "nombre": "Penthouse Angelópolis 1477",
+      "ciudad": "Puebla",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-260",
+      "nombre": "Residencial Altavista 184",
+      "ciudad": "Mérida",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-261",
+      "nombre": "Local Comercial Centro 683",
+      "ciudad": "Cancún",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-262",
+      "nombre": "Casa Valle Real 1076",
+      "ciudad": "Monterrey",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-263",
+      "nombre": "Residencial Nova 972",
+      "ciudad": "Guadalajara",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-264",
+      "nombre": "Casa Juriquilla 412",
+      "ciudad": "La Paz",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-265",
+      "nombre": "Villa Cumbres 1027",
+      "ciudad": "Querétaro",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-266",
+      "nombre": "Casa Juriquilla 824",
+      "ciudad": "León",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-267",
+      "nombre": "Departamento Polanco 1771",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-268",
+      "nombre": "Local Comercial Centro 830",
+      "ciudad": "Cancún",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-269",
+      "nombre": "Departamento Polanco 1499",
+      "ciudad": "Guadalajara",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-270",
+      "nombre": "Oficina Corporativa 1151",
+      "ciudad": "Querétaro",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-271",
+      "nombre": "Oficina Corporativa 947",
+      "ciudad": "Tijuana",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-272",
+      "nombre": "Residencial Altavista 1326",
+      "ciudad": "Mérida",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-273",
+      "nombre": "Residencial Nova 1369",
+      "ciudad": "Cancún",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-274",
+      "nombre": "Local Comercial Centro 1247",
+      "ciudad": "Cancún",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-275",
+      "nombre": "Studio Santa Fe 1854",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-276",
+      "nombre": "Casa Valle Real 1722",
+      "ciudad": "Guadalajara",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-277",
+      "nombre": "Casa Valle Real 316",
+      "ciudad": "Oaxaca",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-278",
+      "nombre": "Oficina Corporativa 1978",
+      "ciudad": "Puebla",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-279",
+      "nombre": "Casa Juriquilla 1020",
+      "ciudad": "CDMX",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-280",
+      "nombre": "Casa Valle Real 100",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-281",
+      "nombre": "Oficina Corporativa 544",
+      "ciudad": "Tijuana",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-282",
+      "nombre": "Torre Platinum 1485",
+      "ciudad": "Puebla",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-283",
+      "nombre": "Residencial Nova 196",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-284",
+      "nombre": "Local Comercial Centro 696",
+      "ciudad": "CDMX",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-285",
+      "nombre": "Depto San Pedro 1198",
+      "ciudad": "Tijuana",
+      "tipo": "Comercial",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-286",
+      "nombre": "Studio Santa Fe 625",
+      "ciudad": "León",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-287",
+      "nombre": "Oficina Corporativa 1657",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-288",
+      "nombre": "Loft Roma Norte 1596",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Remodelación",
+      "estado": "Entregado",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-289",
+      "nombre": "Studio Santa Fe 617",
+      "ciudad": "Mérida",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-290",
+      "nombre": "Depto San Pedro 1106",
+      "ciudad": "La Paz",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-291",
+      "nombre": "Torre Gaia 1630",
+      "ciudad": "Cancún",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-292",
+      "nombre": "Torre Platinum 1242",
+      "ciudad": "León",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-293",
+      "nombre": "Penthouse Angelópolis 1228",
+      "ciudad": "Toluca",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-294",
+      "nombre": "Residencial Altavista 193",
+      "ciudad": "Puebla",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-295",
+      "nombre": "Departamento Polanco 498",
+      "ciudad": "Chihuahua",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-296",
+      "nombre": "Departamento Polanco 821",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-297",
+      "nombre": "PH Olivo 1976",
+      "ciudad": "Mérida",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-298",
+      "nombre": "Departamento Polanco 1347",
+      "ciudad": "Cancún",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-299",
+      "nombre": "Local Comercial Centro 424",
+      "ciudad": "Oaxaca",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-300",
+      "nombre": "Torre Gaia 1309",
+      "ciudad": "Querétaro",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-301",
+      "nombre": "Oficina Corporativa 2091",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-302",
+      "nombre": "Local Comercial Centro 1041",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-303",
+      "nombre": "Torre Gaia 967",
+      "ciudad": "Querétaro",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-304",
+      "nombre": "Departamento Polanco 1434",
+      "ciudad": "CDMX",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-305",
+      "nombre": "Departamento Polanco 1207",
+      "ciudad": "Querétaro",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-306",
+      "nombre": "Casa Juriquilla 546",
+      "ciudad": "Monterrey",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-307",
+      "nombre": "Torre Gaia 820",
+      "ciudad": "Mérida",
+      "tipo": "Amueblado",
+      "estado": "Diseño",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-308",
+      "nombre": "Loft Roma Norte 966",
+      "ciudad": "Chihuahua",
+      "tipo": "Home Staging",
+      "estado": "Ejecución",
+      "resumen": "Remodelación de baños y cocina con acabados premium importados."
+    },
+    {
+      "id": "cliente-309",
+      "nombre": "Penthouse Angelópolis 202",
+      "ciudad": "Oaxaca",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-310",
+      "nombre": "Torre Platinum 1350",
+      "ciudad": "Guadalajara",
+      "tipo": "Remodelación",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-311",
+      "nombre": "Residencial Nova 724",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-312",
+      "nombre": "Local Comercial Centro 1478",
+      "ciudad": "Mérida",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-313",
+      "nombre": "Casa Valle Real 908",
+      "ciudad": "Chihuahua",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-314",
+      "nombre": "Studio Santa Fe 747",
+      "ciudad": "Toluca",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-315",
+      "nombre": "Villa Cumbres 1808",
+      "ciudad": "Guadalajara",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-316",
+      "nombre": "Residencial Altavista 365",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-317",
+      "nombre": "Local Comercial Centro 772",
+      "ciudad": "CDMX",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-318",
+      "nombre": "Depto San Pedro 913",
+      "ciudad": "Tijuana",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-319",
+      "nombre": "Depto San Pedro 785",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-320",
+      "nombre": "Depto San Pedro 984",
+      "ciudad": "Querétaro",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-321",
+      "nombre": "Depto San Pedro 1152",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Home Staging",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-322",
+      "nombre": "Residencial Nova 200",
+      "ciudad": "La Paz",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-323",
+      "nombre": "Penthouse Angelópolis 1380",
+      "ciudad": "Toluca",
+      "tipo": "Oficina",
+      "estado": "Ejecución",
+      "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio."
+    },
+    {
+      "id": "cliente-324",
+      "nombre": "Casa Juriquilla 1921",
+      "ciudad": "Tijuana",
+      "tipo": "Oficina",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-325",
+      "nombre": "Penthouse Angelópolis 1217",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Espacio comercial boutique con identidad de marca integrada."
+    },
+    {
+      "id": "cliente-326",
+      "nombre": "Casa Juriquilla 301",
+      "ciudad": "Querétaro",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Remodelación integral con acabados de lujo y diseño minimalista."
+    },
+    {
+      "id": "cliente-327",
+      "nombre": "Casa Valle Real 1181",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado."
+    },
+    {
+      "id": "cliente-328",
+      "nombre": "Local Comercial Centro 379",
+      "ciudad": "Cancún",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-329",
+      "nombre": "Residencial Altavista 447",
+      "ciudad": "Oaxaca",
+      "tipo": "Amueblado",
+      "estado": "Entregado",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-330",
+      "nombre": "Oficina Corporativa 808",
+      "ciudad": "León",
+      "tipo": "Comercial",
+      "estado": "Diseño",
+      "resumen": "Departamento completamente amueblado estilo mid-century moderno."
+    },
+    {
+      "id": "cliente-331",
+      "nombre": "Casa Valle Real 230",
+      "ciudad": "Playa del Carmen",
+      "tipo": "Oficina",
+      "estado": "Entregado",
+      "resumen": "Home staging express para venta rápida con alto impacto visual."
+    },
+    {
+      "id": "cliente-332",
+      "nombre": "Torre Platinum 1620",
+      "ciudad": "CDMX",
+      "tipo": "Home Staging",
+      "estado": "Diseño",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    },
+    {
+      "id": "cliente-333",
+      "nombre": "Residencial Nova 1445",
+      "ciudad": "San Miguel de Allende",
+      "tipo": "Remodelación",
+      "estado": "Ejecución",
+      "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada."
+    },
+    {
+      "id": "cliente-334",
+      "nombre": "Residencial Nova 1516",
+      "ciudad": "Chihuahua",
+      "tipo": "Comercial",
+      "estado": "Entregado",
+      "resumen": "Casa familiar con espacios abiertos y materiales naturales."
+    },
+    {
+      "id": "cliente-335",
+      "nombre": "Departamento Polanco 432",
+      "ciudad": "León",
+      "tipo": "Amueblado",
+      "estado": "Ejecución",
+      "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium."
+    }
+  ],
+  "piezas": [
+    {
+      "id": "alfombra-persa-40",
+      "nombre": "Alfombra Persa",
+      "tags": [
+        "clásico",
+        "luxury"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Alfombra Persa con diseño clásico y acabados de alta calidad."
+    },
+    {
+      "id": "alfombra-tejida-natural-39",
+      "nombre": "Alfombra Tejida Natural",
+      "tags": [
+        "eco",
+        "textura"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Alfombra Tejida Natural con diseño eco y acabados de alta calidad."
+    },
+    {
+      "id": "archivero-4-gavetas-31",
+      "nombre": "Archivero 4 Gavetas",
+      "tags": [
+        "organizador",
+        "seguro"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Archivero 4 Gavetas con diseño organizador y acabados de alta calidad."
+    },
+    {
+      "id": "banco-alto-bar-21",
+      "nombre": "Banco Alto Bar",
+      "tags": [
+        "industrial",
+        "bar"
+      ],
+      "categoria": [
+        "Comedor",
+        "Cocina"
+      ],
+      "descripcion": "Banco Alto Bar con diseño industrial y acabados de alta calidad."
+    },
+    {
+      "id": "banco-pie-de-cama-15",
+      "nombre": "Banco Pie de Cama",
+      "tags": [
+        "elegante",
+        "práctico"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Banco Pie de Cama con diseño elegante y acabados de alta calidad."
+    },
+    {
+      "id": "barra-desayunador-24",
+      "nombre": "Barra Desayunador",
+      "tags": [
+        "moderno",
+        "compacto"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Barra Desayunador con diseño moderno y acabados de alta calidad."
+    },
+    {
+      "id": "buffet-comedor-22",
+      "nombre": "Buffet Comedor",
+      "tags": [
+        "clásico",
+        "almacenaje"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Buffet Comedor con diseño clásico y acabados de alta calidad."
+    },
+    {
+      "id": "buró-flotante-12",
+      "nombre": "Buró Flotante",
+      "tags": [
+        "moderno",
+        "space-saving"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Buró Flotante con diseño moderno y acabados de alta calidad."
+    },
+    {
+      "id": "buró-nogal-curvo-11",
+      "nombre": "Buró Nogal Curvo",
+      "tags": [
+        "nórdico",
+        "orgánico"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Buró Nogal Curvo con diseño nórdico y acabados de alta calidad."
+    },
+    {
+      "id": "cama-platform-queen-10",
+      "nombre": "Cama Platform Queen",
+      "tags": [
+        "minimalista",
+        "japonés"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Cama Platform Queen con diseño minimalista y acabados de alta calidad."
+    },
+    {
+      "id": "cama-tapizada-king-9",
+      "nombre": "Cama Tapizada King",
+      "tags": [
+        "luxury",
+        "moderno"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Cama Tapizada King con diseño luxury y acabados de alta calidad."
+    },
+    {
+      "id": "carrito-auxiliar-26",
+      "nombre": "Carrito Auxiliar",
+      "tags": [
+        "móvil",
+        "útil"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Carrito Auxiliar con diseño móvil y acabados de alta calidad."
+    },
+    {
+      "id": "credenza-rejilla-6",
+      "nombre": "Credenza Rejilla",
+      "tags": [
+        "mid-century",
+        "vintage"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Credenza Rejilla con diseño mid-century y acabados de alta calidad."
+    },
+    {
+      "id": "cuadro-abstracto-xl-41",
+      "nombre": "Cuadro Abstracto XL",
+      "tags": [
+        "arte",
+        "moderno"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Cuadro Abstracto XL con diseño arte y acabados de alta calidad."
+    },
+    {
+      "id": "cómoda-6-cajones-13",
+      "nombre": "Cómoda 6 Cajones",
+      "tags": [
+        "clásico",
+        "funcional"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Cómoda 6 Cajones con diseño clásico y acabados de alta calidad."
+    },
+    {
+      "id": "escritorio-ejecutivo-27",
+      "nombre": "Escritorio Ejecutivo",
+      "tags": [
+        "profesional",
+        "amplio"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Escritorio Ejecutivo con diseño profesional y acabados de alta calidad."
+    },
+    {
+      "id": "escritorio-nórdico-slim-28",
+      "nombre": "Escritorio Nórdico Slim",
+      "tags": [
+        "minimalista",
+        "compacto"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Escritorio Nórdico Slim con diseño minimalista y acabados de alta calidad."
+    },
+    {
+      "id": "espejo-cuerpo-completo-14",
+      "nombre": "Espejo Cuerpo Completo",
+      "tags": [
+        "minimalista"
+      ],
+      "categoria": [
+        "Recámara",
+        "Decoración"
+      ],
+      "descripcion": "Espejo Cuerpo Completo con diseño minimalista y acabados de alta calidad."
+    },
+    {
+      "id": "espejo-sol-dorado-45",
+      "nombre": "Espejo Sol Dorado",
+      "tags": [
+        "glamour",
+        "vintage"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Espejo Sol Dorado con diseño glamour y acabados de alta calidad."
+    },
+    {
+      "id": "estante-especiero-25",
+      "nombre": "Estante Especiero",
+      "tags": [
+        "organizador",
+        "práctico"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Estante Especiero con diseño organizador y acabados de alta calidad."
+    },
+    {
+      "id": "isla-cocina-móvil-23",
+      "nombre": "Isla Cocina Móvil",
+      "tags": [
+        "funcional",
+        "versátil"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Isla Cocina Móvil con diseño funcional y acabados de alta calidad."
+    },
+    {
+      "id": "jarrón-cerámico-grande-44",
+      "nombre": "Jarrón Cerámico Grande",
+      "tags": [
+        "artesanal",
+        "statement"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Jarrón Cerámico Grande con diseño artesanal y acabados de alta calidad."
+    },
+    {
+      "id": "librero-industrial-7",
+      "nombre": "Librero Industrial",
+      "tags": [
+        "industrial",
+        "urbano"
+      ],
+      "categoria": [
+        "Sala",
+        "Oficina"
+      ],
+      "descripcion": "Librero Industrial con diseño industrial y acabados de alta calidad."
+    },
+    {
+      "id": "lámpara-colgante-disco-33",
+      "nombre": "Lámpara Colgante Disco",
+      "tags": [
+        "moderno",
+        "statement"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Lámpara Colgante Disco con diseño moderno y acabados de alta calidad."
+    },
+    {
+      "id": "lámpara-industrial-38",
+      "nombre": "Lámpara Industrial",
+      "tags": [
+        "vintage",
+        "industrial"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Lámpara Industrial con diseño vintage y acabados de alta calidad."
+    },
+    {
+      "id": "lámpara-mesa-touch-35",
+      "nombre": "Lámpara Mesa Touch",
+      "tags": [
+        "smart",
+        "moderno"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Lámpara Mesa Touch con diseño smart y acabados de alta calidad."
+    },
+    {
+      "id": "lámpara-pie-arco-34",
+      "nombre": "Lámpara Pie Arco",
+      "tags": [
+        "elegante",
+        "funcional"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Lámpara Pie Arco con diseño elegante y acabados de alta calidad."
+    },
+    {
+      "id": "mesa-centro-mármol-5",
+      "nombre": "Mesa Centro Mármol",
+      "tags": [
+        "luxury",
+        "moderno"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Mesa Centro Mármol con diseño luxury y acabados de alta calidad."
+    },
+    {
+      "id": "mesa-centro-nogal-4",
+      "nombre": "Mesa Centro Nogal",
+      "tags": [
+        "nórdico",
+        "natural"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Mesa Centro Nogal con diseño nórdico y acabados de alta calidad."
+    },
+    {
+      "id": "mesa-comedor-encino-8p-16",
+      "nombre": "Mesa Comedor Encino 8P",
+      "tags": [
+        "rústico",
+        "familiar"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Mesa Comedor Encino 8P con diseño rústico y acabados de alta calidad."
+    },
+    {
+      "id": "mesa-comedor-extensible-17",
+      "nombre": "Mesa Comedor Extensible",
+      "tags": [
+        "moderno",
+        "versátil"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Mesa Comedor Extensible con diseño moderno y acabados de alta calidad."
+    },
+    {
+      "id": "mesa-juntas-6p-32",
+      "nombre": "Mesa Juntas 6P",
+      "tags": [
+        "corporativo",
+        "moderno"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Mesa Juntas 6P con diseño corporativo y acabados de alta calidad."
+    },
+    {
+      "id": "mesa-redonda-mármol-18",
+      "nombre": "Mesa Redonda Mármol",
+      "tags": [
+        "luxury",
+        "elegante"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Mesa Redonda Mármol con diseño luxury y acabados de alta calidad."
+    },
+    {
+      "id": "pieza-100",
+      "nombre": "Sillón Individual Oslo Blanco",
+      "tags": [
+        "nórdico",
+        "acogedor",
+        "blanco"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en blanco del popular Sillón Individual Oslo."
+    },
+    {
+      "id": "pieza-101",
+      "nombre": "Cama Tapizada King Nogal",
+      "tags": [
+        "luxury",
+        "moderno",
+        "nogal"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en nogal del popular Cama Tapizada King."
+    },
+    {
+      "id": "pieza-102",
+      "nombre": "Cama Platform Queen Natural",
+      "tags": [
+        "minimalista",
+        "japonés",
+        "natural"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en natural del popular Cama Platform Queen."
+    },
+    {
+      "id": "pieza-103",
+      "nombre": "Buró Nogal Curvo Dorado",
+      "tags": [
+        "nórdico",
+        "orgánico",
+        "dorado"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en dorado del popular Buró Nogal Curvo."
+    },
+    {
+      "id": "pieza-104",
+      "nombre": "Buró Flotante Plata",
+      "tags": [
+        "moderno",
+        "space-saving",
+        "plata"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en plata del popular Buró Flotante."
+    },
+    {
+      "id": "pieza-105",
+      "nombre": "Cómoda 6 Cajones Arena",
+      "tags": [
+        "clásico",
+        "funcional",
+        "arena"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en arena del popular Cómoda 6 Cajones."
+    },
+    {
+      "id": "pieza-106",
+      "nombre": "Espejo Cuerpo Completo Gris",
+      "tags": [
+        "minimalista",
+        "gris"
+      ],
+      "categoria": [
+        "Recámara",
+        "Decoración"
+      ],
+      "descripcion": "Variación en gris del popular Espejo Cuerpo Completo."
+    },
+    {
+      "id": "pieza-107",
+      "nombre": "Banco Pie de Cama Negro",
+      "tags": [
+        "elegante",
+        "práctico",
+        "negro"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en negro del popular Banco Pie de Cama."
+    },
+    {
+      "id": "pieza-108",
+      "nombre": "Mesa Comedor Encino 8P Blanco",
+      "tags": [
+        "rústico",
+        "familiar",
+        "blanco"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en blanco del popular Mesa Comedor Encino 8P."
+    },
+    {
+      "id": "pieza-109",
+      "nombre": "Mesa Comedor Extensible Nogal",
+      "tags": [
+        "moderno",
+        "versátil",
+        "nogal"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en nogal del popular Mesa Comedor Extensible."
+    },
+    {
+      "id": "pieza-110",
+      "nombre": "Mesa Redonda Mármol Natural",
+      "tags": [
+        "luxury",
+        "elegante",
+        "natural"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en natural del popular Mesa Redonda Mármol."
+    },
+    {
+      "id": "pieza-111",
+      "nombre": "Silla Tapizada Velvet Dorado",
+      "tags": [
+        "glamour",
+        "comfort",
+        "dorado"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en dorado del popular Silla Tapizada Velvet."
+    },
+    {
+      "id": "pieza-112",
+      "nombre": "Silla Madera Natural Plata",
+      "tags": [
+        "nórdico",
+        "eco",
+        "plata"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en plata del popular Silla Madera Natural."
+    },
+    {
+      "id": "pieza-113",
+      "nombre": "Banco Alto Bar Arena",
+      "tags": [
+        "industrial",
+        "bar",
+        "arena"
+      ],
+      "categoria": [
+        "Comedor",
+        "Cocina"
+      ],
+      "descripcion": "Variación en arena del popular Banco Alto Bar."
+    },
+    {
+      "id": "pieza-114",
+      "nombre": "Buffet Comedor Gris",
+      "tags": [
+        "clásico",
+        "almacenaje",
+        "gris"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en gris del popular Buffet Comedor."
+    },
+    {
+      "id": "pieza-115",
+      "nombre": "Isla Cocina Móvil Negro",
+      "tags": [
+        "funcional",
+        "versátil",
+        "negro"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en negro del popular Isla Cocina Móvil."
+    },
+    {
+      "id": "pieza-116",
+      "nombre": "Barra Desayunador Blanco",
+      "tags": [
+        "moderno",
+        "compacto",
+        "blanco"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en blanco del popular Barra Desayunador."
+    },
+    {
+      "id": "pieza-117",
+      "nombre": "Estante Especiero Nogal",
+      "tags": [
+        "organizador",
+        "práctico",
+        "nogal"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en nogal del popular Estante Especiero."
+    },
+    {
+      "id": "pieza-118",
+      "nombre": "Carrito Auxiliar Natural",
+      "tags": [
+        "móvil",
+        "útil",
+        "natural"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en natural del popular Carrito Auxiliar."
+    },
+    {
+      "id": "pieza-119",
+      "nombre": "Escritorio Ejecutivo Dorado",
+      "tags": [
+        "profesional",
+        "amplio",
+        "dorado"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en dorado del popular Escritorio Ejecutivo."
+    },
+    {
+      "id": "pieza-120",
+      "nombre": "Escritorio Nórdico Slim Plata",
+      "tags": [
+        "minimalista",
+        "compacto",
+        "plata"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en plata del popular Escritorio Nórdico Slim."
+    },
+    {
+      "id": "pieza-47",
+      "nombre": "Sofá Modular Lino Dorado",
+      "tags": [
+        "mid-century",
+        "nórdico",
+        "blu-dot-like",
+        "dorado"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en dorado del popular Sofá Modular Lino."
+    },
+    {
+      "id": "pieza-48",
+      "nombre": "Sofá Chester Cuero Plata",
+      "tags": [
+        "clásico",
+        "elegante",
+        "plata"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en plata del popular Sofá Chester Cuero."
+    },
+    {
+      "id": "pieza-49",
+      "nombre": "Sofá Esquinero Gris Arena",
+      "tags": [
+        "moderno",
+        "minimalista",
+        "arena"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en arena del popular Sofá Esquinero Gris."
+    },
+    {
+      "id": "pieza-50",
+      "nombre": "Mesa Centro Nogal Gris",
+      "tags": [
+        "nórdico",
+        "natural",
+        "gris"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en gris del popular Mesa Centro Nogal."
+    },
+    {
+      "id": "pieza-51",
+      "nombre": "Mesa Centro Mármol Negro",
+      "tags": [
+        "luxury",
+        "moderno",
+        "negro"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en negro del popular Mesa Centro Mármol."
+    },
+    {
+      "id": "pieza-52",
+      "nombre": "Credenza Rejilla Blanco",
+      "tags": [
+        "mid-century",
+        "vintage",
+        "blanco"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en blanco del popular Credenza Rejilla."
+    },
+    {
+      "id": "pieza-53",
+      "nombre": "Librero Industrial Nogal",
+      "tags": [
+        "industrial",
+        "urbano",
+        "nogal"
+      ],
+      "categoria": [
+        "Sala",
+        "Oficina"
+      ],
+      "descripcion": "Variación en nogal del popular Librero Industrial."
+    },
+    {
+      "id": "pieza-54",
+      "nombre": "Sillón Individual Oslo Natural",
+      "tags": [
+        "nórdico",
+        "acogedor",
+        "natural"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en natural del popular Sillón Individual Oslo."
+    },
+    {
+      "id": "pieza-55",
+      "nombre": "Cama Tapizada King Dorado",
+      "tags": [
+        "luxury",
+        "moderno",
+        "dorado"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en dorado del popular Cama Tapizada King."
+    },
+    {
+      "id": "pieza-56",
+      "nombre": "Cama Platform Queen Plata",
+      "tags": [
+        "minimalista",
+        "japonés",
+        "plata"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en plata del popular Cama Platform Queen."
+    },
+    {
+      "id": "pieza-57",
+      "nombre": "Buró Nogal Curvo Arena",
+      "tags": [
+        "nórdico",
+        "orgánico",
+        "arena"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en arena del popular Buró Nogal Curvo."
+    },
+    {
+      "id": "pieza-58",
+      "nombre": "Buró Flotante Gris",
+      "tags": [
+        "moderno",
+        "space-saving",
+        "gris"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en gris del popular Buró Flotante."
+    },
+    {
+      "id": "pieza-59",
+      "nombre": "Cómoda 6 Cajones Negro",
+      "tags": [
+        "clásico",
+        "funcional",
+        "negro"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en negro del popular Cómoda 6 Cajones."
+    },
+    {
+      "id": "pieza-60",
+      "nombre": "Espejo Cuerpo Completo Blanco",
+      "tags": [
+        "minimalista",
+        "blanco"
+      ],
+      "categoria": [
+        "Recámara",
+        "Decoración"
+      ],
+      "descripcion": "Variación en blanco del popular Espejo Cuerpo Completo."
+    },
+    {
+      "id": "pieza-61",
+      "nombre": "Banco Pie de Cama Nogal",
+      "tags": [
+        "elegante",
+        "práctico",
+        "nogal"
+      ],
+      "categoria": [
+        "Recámara"
+      ],
+      "descripcion": "Variación en nogal del popular Banco Pie de Cama."
+    },
+    {
+      "id": "pieza-62",
+      "nombre": "Mesa Comedor Encino 8P Natural",
+      "tags": [
+        "rústico",
+        "familiar",
+        "natural"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en natural del popular Mesa Comedor Encino 8P."
+    },
+    {
+      "id": "pieza-63",
+      "nombre": "Mesa Comedor Extensible Dorado",
+      "tags": [
+        "moderno",
+        "versátil",
+        "dorado"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en dorado del popular Mesa Comedor Extensible."
+    },
+    {
+      "id": "pieza-64",
+      "nombre": "Mesa Redonda Mármol Plata",
+      "tags": [
+        "luxury",
+        "elegante",
+        "plata"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en plata del popular Mesa Redonda Mármol."
+    },
+    {
+      "id": "pieza-65",
+      "nombre": "Silla Tapizada Velvet Arena",
+      "tags": [
+        "glamour",
+        "comfort",
+        "arena"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en arena del popular Silla Tapizada Velvet."
+    },
+    {
+      "id": "pieza-66",
+      "nombre": "Silla Madera Natural Gris",
+      "tags": [
+        "nórdico",
+        "eco",
+        "gris"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en gris del popular Silla Madera Natural."
+    },
+    {
+      "id": "pieza-67",
+      "nombre": "Banco Alto Bar Negro",
+      "tags": [
+        "industrial",
+        "bar",
+        "negro"
+      ],
+      "categoria": [
+        "Comedor",
+        "Cocina"
+      ],
+      "descripcion": "Variación en negro del popular Banco Alto Bar."
+    },
+    {
+      "id": "pieza-68",
+      "nombre": "Buffet Comedor Blanco",
+      "tags": [
+        "clásico",
+        "almacenaje",
+        "blanco"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Variación en blanco del popular Buffet Comedor."
+    },
+    {
+      "id": "pieza-69",
+      "nombre": "Isla Cocina Móvil Nogal",
+      "tags": [
+        "funcional",
+        "versátil",
+        "nogal"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en nogal del popular Isla Cocina Móvil."
+    },
+    {
+      "id": "pieza-70",
+      "nombre": "Barra Desayunador Natural",
+      "tags": [
+        "moderno",
+        "compacto",
+        "natural"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en natural del popular Barra Desayunador."
+    },
+    {
+      "id": "pieza-71",
+      "nombre": "Estante Especiero Dorado",
+      "tags": [
+        "organizador",
+        "práctico",
+        "dorado"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en dorado del popular Estante Especiero."
+    },
+    {
+      "id": "pieza-72",
+      "nombre": "Carrito Auxiliar Plata",
+      "tags": [
+        "móvil",
+        "útil",
+        "plata"
+      ],
+      "categoria": [
+        "Cocina"
+      ],
+      "descripcion": "Variación en plata del popular Carrito Auxiliar."
+    },
+    {
+      "id": "pieza-73",
+      "nombre": "Escritorio Ejecutivo Arena",
+      "tags": [
+        "profesional",
+        "amplio",
+        "arena"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en arena del popular Escritorio Ejecutivo."
+    },
+    {
+      "id": "pieza-74",
+      "nombre": "Escritorio Nórdico Slim Gris",
+      "tags": [
+        "minimalista",
+        "compacto",
+        "gris"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en gris del popular Escritorio Nórdico Slim."
+    },
+    {
+      "id": "pieza-75",
+      "nombre": "Silla Ergonómica Mesh Negro",
+      "tags": [
+        "comfort",
+        "salud",
+        "negro"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en negro del popular Silla Ergonómica Mesh."
+    },
+    {
+      "id": "pieza-76",
+      "nombre": "Silla Gaming Premium Blanco",
+      "tags": [
+        "gaming",
+        "comfort",
+        "blanco"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en blanco del popular Silla Gaming Premium."
+    },
+    {
+      "id": "pieza-77",
+      "nombre": "Archivero 4 Gavetas Nogal",
+      "tags": [
+        "organizador",
+        "seguro",
+        "nogal"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en nogal del popular Archivero 4 Gavetas."
+    },
+    {
+      "id": "pieza-78",
+      "nombre": "Mesa Juntas 6P Natural",
+      "tags": [
+        "corporativo",
+        "moderno",
+        "natural"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Variación en natural del popular Mesa Juntas 6P."
+    },
+    {
+      "id": "pieza-79",
+      "nombre": "Lámpara Colgante Disco Dorado",
+      "tags": [
+        "moderno",
+        "statement",
+        "dorado"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Variación en dorado del popular Lámpara Colgante Disco."
+    },
+    {
+      "id": "pieza-80",
+      "nombre": "Lámpara Pie Arco Plata",
+      "tags": [
+        "elegante",
+        "funcional",
+        "plata"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Variación en plata del popular Lámpara Pie Arco."
+    },
+    {
+      "id": "pieza-81",
+      "nombre": "Lámpara Mesa Touch Arena",
+      "tags": [
+        "smart",
+        "moderno",
+        "arena"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Variación en arena del popular Lámpara Mesa Touch."
+    },
+    {
+      "id": "pieza-82",
+      "nombre": "Plafón LED Minimalista Gris",
+      "tags": [
+        "eficiente",
+        "discreto",
+        "gris"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Variación en gris del popular Plafón LED Minimalista."
+    },
+    {
+      "id": "pieza-83",
+      "nombre": "Tira LED RGB Negro",
+      "tags": [
+        "ambient",
+        "personalizable",
+        "negro"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Variación en negro del popular Tira LED RGB."
+    },
+    {
+      "id": "pieza-84",
+      "nombre": "Lámpara Industrial Blanco",
+      "tags": [
+        "vintage",
+        "industrial",
+        "blanco"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Variación en blanco del popular Lámpara Industrial."
+    },
+    {
+      "id": "pieza-85",
+      "nombre": "Alfombra Tejida Natural Nogal",
+      "tags": [
+        "eco",
+        "textura",
+        "nogal"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en nogal del popular Alfombra Tejida Natural."
+    },
+    {
+      "id": "pieza-86",
+      "nombre": "Alfombra Persa Natural",
+      "tags": [
+        "clásico",
+        "luxury",
+        "natural"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en natural del popular Alfombra Persa."
+    },
+    {
+      "id": "pieza-87",
+      "nombre": "Cuadro Abstracto XL Dorado",
+      "tags": [
+        "arte",
+        "moderno",
+        "dorado"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en dorado del popular Cuadro Abstracto XL."
+    },
+    {
+      "id": "pieza-88",
+      "nombre": "Set Cojines Texturas Plata",
+      "tags": [
+        "acogedor",
+        "color",
+        "plata"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en plata del popular Set Cojines Texturas."
+    },
+    {
+      "id": "pieza-89",
+      "nombre": "Planta Monstera XL Arena",
+      "tags": [
+        "natural",
+        "tropical",
+        "arena"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en arena del popular Planta Monstera XL."
+    },
+    {
+      "id": "pieza-90",
+      "nombre": "Jarrón Cerámico Grande Gris",
+      "tags": [
+        "artesanal",
+        "statement",
+        "gris"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en gris del popular Jarrón Cerámico Grande."
+    },
+    {
+      "id": "pieza-91",
+      "nombre": "Espejo Sol Dorado Negro",
+      "tags": [
+        "glamour",
+        "vintage",
+        "negro"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en negro del popular Espejo Sol Dorado."
+    },
+    {
+      "id": "pieza-92",
+      "nombre": "Reloj Pared Minimalista Blanco",
+      "tags": [
+        "moderno",
+        "funcional",
+        "blanco"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Variación en blanco del popular Reloj Pared Minimalista."
+    },
+    {
+      "id": "pieza-93",
+      "nombre": "Sofá Modular Lino Nogal",
+      "tags": [
+        "mid-century",
+        "nórdico",
+        "blu-dot-like",
+        "nogal"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en nogal del popular Sofá Modular Lino."
+    },
+    {
+      "id": "pieza-94",
+      "nombre": "Sofá Chester Cuero Natural",
+      "tags": [
+        "clásico",
+        "elegante",
+        "natural"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en natural del popular Sofá Chester Cuero."
+    },
+    {
+      "id": "pieza-95",
+      "nombre": "Sofá Esquinero Gris Dorado",
+      "tags": [
+        "moderno",
+        "minimalista",
+        "dorado"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en dorado del popular Sofá Esquinero Gris."
+    },
+    {
+      "id": "pieza-96",
+      "nombre": "Mesa Centro Nogal Plata",
+      "tags": [
+        "nórdico",
+        "natural",
+        "plata"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en plata del popular Mesa Centro Nogal."
+    },
+    {
+      "id": "pieza-97",
+      "nombre": "Mesa Centro Mármol Arena",
+      "tags": [
+        "luxury",
+        "moderno",
+        "arena"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en arena del popular Mesa Centro Mármol."
+    },
+    {
+      "id": "pieza-98",
+      "nombre": "Credenza Rejilla Gris",
+      "tags": [
+        "mid-century",
+        "vintage",
+        "gris"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Variación en gris del popular Credenza Rejilla."
+    },
+    {
+      "id": "pieza-99",
+      "nombre": "Librero Industrial Negro",
+      "tags": [
+        "industrial",
+        "urbano",
+        "negro"
+      ],
+      "categoria": [
+        "Sala",
+        "Oficina"
+      ],
+      "descripcion": "Variación en negro del popular Librero Industrial."
+    },
+    {
+      "id": "plafón-led-minimalista-36",
+      "nombre": "Plafón LED Minimalista",
+      "tags": [
+        "eficiente",
+        "discreto"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Plafón LED Minimalista con diseño eficiente y acabados de alta calidad."
+    },
+    {
+      "id": "planta-monstera-xl-43",
+      "nombre": "Planta Monstera XL",
+      "tags": [
+        "natural",
+        "tropical"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Planta Monstera XL con diseño natural y acabados de alta calidad."
+    },
+    {
+      "id": "reloj-pared-minimalista-46",
+      "nombre": "Reloj Pared Minimalista",
+      "tags": [
+        "moderno",
+        "funcional"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Reloj Pared Minimalista con diseño moderno y acabados de alta calidad."
+    },
+    {
+      "id": "set-cojines-texturas-42",
+      "nombre": "Set Cojines Texturas",
+      "tags": [
+        "acogedor",
+        "color"
+      ],
+      "categoria": [
+        "Decoración"
+      ],
+      "descripcion": "Set Cojines Texturas con diseño acogedor y acabados de alta calidad."
+    },
+    {
+      "id": "silla-ergonómica-mesh-29",
+      "nombre": "Silla Ergonómica Mesh",
+      "tags": [
+        "comfort",
+        "salud"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Silla Ergonómica Mesh con diseño comfort y acabados de alta calidad."
+    },
+    {
+      "id": "silla-gaming-premium-30",
+      "nombre": "Silla Gaming Premium",
+      "tags": [
+        "gaming",
+        "comfort"
+      ],
+      "categoria": [
+        "Oficina"
+      ],
+      "descripcion": "Silla Gaming Premium con diseño gaming y acabados de alta calidad."
+    },
+    {
+      "id": "silla-madera-natural-20",
+      "nombre": "Silla Madera Natural",
+      "tags": [
+        "nórdico",
+        "eco"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Silla Madera Natural con diseño nórdico y acabados de alta calidad."
+    },
+    {
+      "id": "silla-tapizada-velvet-19",
+      "nombre": "Silla Tapizada Velvet",
+      "tags": [
+        "glamour",
+        "comfort"
+      ],
+      "categoria": [
+        "Comedor"
+      ],
+      "descripcion": "Silla Tapizada Velvet con diseño glamour y acabados de alta calidad."
+    },
+    {
+      "id": "sillón-individual-oslo-8",
+      "nombre": "Sillón Individual Oslo",
+      "tags": [
+        "nórdico",
+        "acogedor"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Sillón Individual Oslo con diseño nórdico y acabados de alta calidad."
+    },
+    {
+      "id": "sofa-lino-arena",
+      "nombre": "Sofá modular Lino Arena",
+      "tags": [
+        "mid-century",
+        "nórdico",
+        "blu-dot-like"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Mid-century cálido con base de madera, tapizado en lino."
+    },
+    {
+      "id": "sofá-chester-cuero-2",
+      "nombre": "Sofá Chester Cuero",
+      "tags": [
+        "clásico",
+        "elegante"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Sofá Chester Cuero con diseño clásico y acabados de alta calidad."
+    },
+    {
+      "id": "sofá-esquinero-gris-3",
+      "nombre": "Sofá Esquinero Gris",
+      "tags": [
+        "moderno",
+        "minimalista"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Sofá Esquinero Gris con diseño moderno y acabados de alta calidad."
+    },
+    {
+      "id": "sofá-modular-lino-1",
+      "nombre": "Sofá Modular Lino",
+      "tags": [
+        "mid-century",
+        "nórdico",
+        "blu-dot-like"
+      ],
+      "categoria": [
+        "Sala"
+      ],
+      "descripcion": "Sofá Modular Lino con diseño mid-century y acabados de alta calidad."
+    },
+    {
+      "id": "tira-led-rgb-37",
+      "nombre": "Tira LED RGB",
+      "tags": [
+        "ambient",
+        "personalizable"
+      ],
+      "categoria": [
+        "Iluminación"
+      ],
+      "descripcion": "Tira LED RGB con diseño ambient y acabados de alta calidad."
+    }
+  ]
+}

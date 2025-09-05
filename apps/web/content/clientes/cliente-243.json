@@ -1,0 +1,16 @@
+{
+  "id": "cliente-243",
+  "nombre": "Torre Platinum 748",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Home Staging",
+  "metraje": 66,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/4.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-07-18"
+}

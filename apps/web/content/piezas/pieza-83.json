@@ -1,0 +1,25 @@
+{
+  "id": "pieza-83",
+  "nombre": "Tira LED RGB Negro",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Variación en negro del popular Tira LED RGB.",
+  "tags": [
+    "ambient",
+    "personalizable",
+    "negro"
+  ],
+  "materiales": [
+    "silicona",
+    "LED"
+  ],
+  "medidas": "5 metros",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

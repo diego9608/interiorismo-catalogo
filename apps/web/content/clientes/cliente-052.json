@@ -1,0 +1,17 @@
+{
+  "id": "cliente-052",
+  "nombre": "Oficina Corporativa 536",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Home Staging",
+  "metraje": 89,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-11"
+}

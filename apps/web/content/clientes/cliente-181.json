@@ -1,0 +1,16 @@
+{
+  "id": "cliente-181",
+  "nombre": "Depto San Pedro 1159",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Remodelación",
+  "metraje": 159,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/22.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-08"
+}

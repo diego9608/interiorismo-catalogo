@@ -1,0 +1,25 @@
+{
+  "id": "cuadro-abstracto-xl-41",
+  "nombre": "Cuadro Abstracto XL",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Cuadro Abstracto XL con diseño arte y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Cuadro Abstracto XL combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "arte",
+    "moderno"
+  ],
+  "materiales": [
+    "canvas",
+    "madera"
+  ],
+  "medidas": "120x80 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

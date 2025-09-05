@@ -1,0 +1,18 @@
+{
+  "id": "cliente-219",
+  "nombre": "Villa Cumbres 587",
+  "ciudad": "León",
+  "tipoProyecto": "Home Staging",
+  "metraje": 94,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/20.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-06-12"
+}

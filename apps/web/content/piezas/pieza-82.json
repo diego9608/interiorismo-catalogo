@@ -1,0 +1,25 @@
+{
+  "id": "pieza-82",
+  "nombre": "Plafón LED Minimalista Gris",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Variación en gris del popular Plafón LED Minimalista.",
+  "tags": [
+    "eficiente",
+    "discreto",
+    "gris"
+  ],
+  "materiales": [
+    "aluminio",
+    "acrílico"
+  ],
+  "medidas": "60x60x8 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

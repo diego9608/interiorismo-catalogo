@@ -1,0 +1,17 @@
+{
+  "id": "cliente-165",
+  "nombre": "Penthouse Angelópolis 817",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Remodelación",
+  "metraje": 251,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/6.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-12"
+}

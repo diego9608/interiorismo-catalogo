@@ -1,0 +1,18 @@
+{
+  "id": "cliente-188",
+  "nombre": "Local Comercial Centro 1997",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Oficina",
+  "metraje": 115,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/29.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-08-09"
+}

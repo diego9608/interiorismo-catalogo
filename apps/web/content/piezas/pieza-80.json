@@ -1,0 +1,25 @@
+{
+  "id": "pieza-80",
+  "nombre": "Lámpara Pie Arco Plata",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Variación en plata del popular Lámpara Pie Arco.",
+  "tags": [
+    "elegante",
+    "funcional",
+    "plata"
+  ],
+  "materiales": [
+    "metal",
+    "tela"
+  ],
+  "medidas": "180x40x220 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

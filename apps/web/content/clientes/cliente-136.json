@@ -1,0 +1,17 @@
+{
+  "id": "cliente-136",
+  "nombre": "Loft Roma Norte 719",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Home Staging",
+  "metraje": 84,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/17.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-10-24"
+}

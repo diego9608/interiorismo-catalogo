@@ -1,0 +1,16 @@
+{
+  "id": "cliente-215",
+  "nombre": "PH Olivo 289",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Amueblado",
+  "metraje": 144,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-13"
+}

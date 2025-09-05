@@ -1,0 +1,18 @@
+{
+  "id": "cliente-211",
+  "nombre": "Torre Gaia 631",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Oficina",
+  "metraje": 120,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/12.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-23"
+}

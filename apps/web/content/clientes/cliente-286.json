@@ -1,0 +1,16 @@
+{
+  "id": "cliente-286",
+  "nombre": "Studio Santa Fe 625",
+  "ciudad": "León",
+  "tipoProyecto": "Oficina",
+  "metraje": 247,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/7.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-03"
+}

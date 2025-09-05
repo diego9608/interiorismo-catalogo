@@ -1,0 +1,17 @@
+{
+  "id": "cliente-036",
+  "nombre": "Residencial Altavista 381",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Home Staging",
+  "metraje": 218,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/37.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-07"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-072",
+  "nombre": "Residencial Nova 1297",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Comercial",
+  "metraje": 117,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/33.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-18"
+}

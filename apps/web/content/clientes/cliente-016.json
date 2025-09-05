@@ -1,0 +1,17 @@
+{
+  "id": "cliente-016",
+  "nombre": "Penthouse Angelópolis 1253",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Oficina",
+  "metraje": 85,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/17.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-10"
+}

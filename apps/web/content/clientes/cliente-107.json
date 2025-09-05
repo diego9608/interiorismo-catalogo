@@ -1,0 +1,16 @@
+{
+  "id": "cliente-107",
+  "nombre": "Studio Santa Fe 880",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Amueblado",
+  "metraje": 215,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-23"
+}

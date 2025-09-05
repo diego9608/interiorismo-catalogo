@@ -1,0 +1,16 @@
+{
+  "id": "cliente-091",
+  "nombre": "Residencial Altavista 484",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Oficina",
+  "metraje": 85,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/12.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-04"
+}

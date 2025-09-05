@@ -1,0 +1,16 @@
+{
+  "id": "cliente-095",
+  "nombre": "Torre Platinum 488",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Comercial",
+  "metraje": 134,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-08"
+}

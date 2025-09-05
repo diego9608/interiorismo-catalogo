@@ -1,0 +1,18 @@
+{
+  "id": "cliente-125",
+  "nombre": "Villa Cumbres 1123",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Comercial",
+  "metraje": 223,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/6.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-03-19"
+}

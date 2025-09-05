@@ -1,0 +1,25 @@
+{
+  "id": "pieza-107",
+  "nombre": "Banco Pie de Cama Negro",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en negro del popular Banco Pie de Cama.",
+  "tags": [
+    "elegante",
+    "práctico",
+    "negro"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "120x40x45 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

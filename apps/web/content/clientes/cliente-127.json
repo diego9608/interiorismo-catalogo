@@ -1,0 +1,17 @@
+{
+  "id": "cliente-127",
+  "nombre": "Villa Cumbres 1932",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Oficina",
+  "metraje": 241,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/8.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-01-26"
+}

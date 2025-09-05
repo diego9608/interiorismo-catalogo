@@ -1,0 +1,17 @@
+{
+  "id": "cliente-159",
+  "nombre": "Villa Cumbres 1719",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 123,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/40.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-13"
+}

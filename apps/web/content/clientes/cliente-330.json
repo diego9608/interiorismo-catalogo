@@ -1,0 +1,16 @@
+{
+  "id": "cliente-330",
+  "nombre": "Oficina Corporativa 808",
+  "ciudad": "León",
+  "tipoProyecto": "Comercial",
+  "metraje": 63,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/11.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-26"
+}

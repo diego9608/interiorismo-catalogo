@@ -1,0 +1,25 @@
+{
+  "id": "pieza-69",
+  "nombre": "Isla Cocina Móvil Nogal",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Isla Cocina Móvil.",
+  "tags": [
+    "funcional",
+    "versátil",
+    "nogal"
+  ],
+  "materiales": [
+    "madera",
+    "acero"
+  ],
+  "medidas": "120x60x90 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

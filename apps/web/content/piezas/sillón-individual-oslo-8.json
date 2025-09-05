@@ -1,0 +1,25 @@
+{
+  "id": "sillón-individual-oslo-8",
+  "nombre": "Sillón Individual Oslo",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Sillón Individual Oslo con diseño nórdico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Sillón Individual Oslo combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "nórdico",
+    "acogedor"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "80x75x85 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

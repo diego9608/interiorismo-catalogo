@@ -1,0 +1,16 @@
+{
+  "id": "cliente-096",
+  "nombre": "Oficina Corporativa 1282",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 139,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/17.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-12"
+}

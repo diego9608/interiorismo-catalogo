@@ -1,0 +1,18 @@
+{
+  "id": "cliente-212",
+  "nombre": "Oficina Corporativa 551",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Comercial",
+  "metraje": 137,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-05"
+}

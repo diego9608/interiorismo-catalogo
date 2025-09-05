@@ -1,0 +1,16 @@
+{
+  "id": "cliente-084",
+  "nombre": "Torre Gaia 367",
+  "ciudad": "León",
+  "tipoProyecto": "Oficina",
+  "metraje": 153,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/5.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-07"
+}

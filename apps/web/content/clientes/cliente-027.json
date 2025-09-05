@@ -1,0 +1,16 @@
+{
+  "id": "cliente-027",
+  "nombre": "Penthouse Angelópolis 1745",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Oficina",
+  "metraje": 190,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-03-02"
+}

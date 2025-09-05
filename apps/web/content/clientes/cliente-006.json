@@ -1,0 +1,17 @@
+{
+  "id": "cliente-006",
+  "nombre": "Residencial Nova 358",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Home Staging",
+  "metraje": 211,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/7.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-15"
+}

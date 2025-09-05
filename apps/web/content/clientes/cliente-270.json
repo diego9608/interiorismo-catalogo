@@ -1,0 +1,18 @@
+{
+  "id": "cliente-270",
+  "nombre": "Oficina Corporativa 1151",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Oficina",
+  "metraje": 71,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/31.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-25"
+}

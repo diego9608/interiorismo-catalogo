@@ -1,0 +1,18 @@
+{
+  "id": "cliente-317",
+  "nombre": "Local Comercial Centro 772",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Comercial",
+  "metraje": 114,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/38.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-12-13"
+}

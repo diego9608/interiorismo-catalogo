@@ -1,0 +1,25 @@
+{
+  "id": "lámpara-mesa-touch-35",
+  "nombre": "Lámpara Mesa Touch",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Lámpara Mesa Touch con diseño smart y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Lámpara Mesa Touch combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "smart",
+    "moderno"
+  ],
+  "materiales": [
+    "metal",
+    "vidrio"
+  ],
+  "medidas": "25x25x45 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

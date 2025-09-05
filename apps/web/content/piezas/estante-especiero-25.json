@@ -1,0 +1,24 @@
+{
+  "id": "estante-especiero-25",
+  "nombre": "Estante Especiero",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Estante Especiero con diseño organizador y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Estante Especiero combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "organizador",
+    "práctico"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "60x15x80 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

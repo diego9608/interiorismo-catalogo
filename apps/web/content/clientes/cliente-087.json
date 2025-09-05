@@ -1,0 +1,16 @@
+{
+  "id": "cliente-087",
+  "nombre": "Torre Gaia 1595",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Remodelación",
+  "metraje": 203,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/8.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-04"
+}

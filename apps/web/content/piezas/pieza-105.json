@@ -1,0 +1,24 @@
+{
+  "id": "pieza-105",
+  "nombre": "Cómoda 6 Cajones Arena",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en arena del popular Cómoda 6 Cajones.",
+  "tags": [
+    "clásico",
+    "funcional",
+    "arena"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "120x50x80 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pieza-85",
+  "nombre": "Alfombra Tejida Natural Nogal",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Alfombra Tejida Natural.",
+  "tags": [
+    "eco",
+    "textura",
+    "nogal"
+  ],
+  "materiales": [
+    "yute",
+    "algodón"
+  ],
+  "medidas": "200x300 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

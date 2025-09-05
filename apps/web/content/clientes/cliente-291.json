@@ -1,0 +1,16 @@
+{
+  "id": "cliente-291",
+  "nombre": "Torre Gaia 1630",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Remodelación",
+  "metraje": 61,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/12.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-20"
+}

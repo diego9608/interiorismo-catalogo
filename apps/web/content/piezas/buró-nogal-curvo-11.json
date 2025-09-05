@@ -1,0 +1,24 @@
+{
+  "id": "buró-nogal-curvo-11",
+  "nombre": "Buró Nogal Curvo",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Buró Nogal Curvo con diseño nórdico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Buró Nogal Curvo combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "nórdico",
+    "orgánico"
+  ],
+  "materiales": [
+    "nogal"
+  ],
+  "medidas": "50x40x55 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

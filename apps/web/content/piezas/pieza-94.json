@@ -1,0 +1,25 @@
+{
+  "id": "pieza-94",
+  "nombre": "Sofá Chester Cuero Natural",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en natural del popular Sofá Chester Cuero.",
+  "tags": [
+    "clásico",
+    "elegante",
+    "natural"
+  ],
+  "materiales": [
+    "cuero",
+    "madera"
+  ],
+  "medidas": "210x85x75 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

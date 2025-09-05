@@ -1,0 +1,18 @@
+{
+  "id": "cliente-187",
+  "nombre": "Villa Cumbres 1103",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Oficina",
+  "metraje": 141,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-05-04"
+}

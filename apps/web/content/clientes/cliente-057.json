@@ -1,0 +1,16 @@
+{
+  "id": "cliente-057",
+  "nombre": "Torre Gaia 940",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Amueblado",
+  "metraje": 203,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/18.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-24"
+}

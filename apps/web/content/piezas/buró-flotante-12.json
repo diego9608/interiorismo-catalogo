@@ -1,0 +1,25 @@
+{
+  "id": "buró-flotante-12",
+  "nombre": "Buró Flotante",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Buró Flotante con diseño moderno y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Buró Flotante combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "moderno",
+    "space-saving"
+  ],
+  "materiales": [
+    "MDF",
+    "laca"
+  ],
+  "medidas": "45x30x25 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

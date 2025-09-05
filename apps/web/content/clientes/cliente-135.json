@@ -1,0 +1,17 @@
+{
+  "id": "cliente-135",
+  "nombre": "Depto San Pedro 1958",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Comercial",
+  "metraje": 94,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-09-12"
+}

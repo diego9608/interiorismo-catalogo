@@ -1,0 +1,18 @@
+{
+  "id": "cliente-275",
+  "nombre": "Studio Santa Fe 1854",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Oficina",
+  "metraje": 163,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/36.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-27"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-182",
+  "nombre": "Residencial Altavista 1411",
+  "ciudad": "León",
+  "tipoProyecto": "Home Staging",
+  "metraje": 64,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/23.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-15"
+}

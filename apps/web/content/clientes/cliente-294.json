@@ -1,0 +1,17 @@
+{
+  "id": "cliente-294",
+  "nombre": "Residencial Altavista 193",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Amueblado",
+  "metraje": 174,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/15.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-04-06"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "silla-madera-natural-20",
+  "nombre": "Silla Madera Natural",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Silla Madera Natural con diseño nórdico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Silla Madera Natural combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "nórdico",
+    "eco"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "45x45x80 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "archivero-4-gavetas-31",
+  "nombre": "Archivero 4 Gavetas",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Archivero 4 Gavetas con diseño organizador y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Archivero 4 Gavetas combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "organizador",
+    "seguro"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "45x60x132 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

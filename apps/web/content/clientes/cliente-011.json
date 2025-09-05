@@ -1,0 +1,16 @@
+{
+  "id": "cliente-011",
+  "nombre": "Casa Valle Real 1691",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Oficina",
+  "metraje": 89,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/12.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-27"
+}

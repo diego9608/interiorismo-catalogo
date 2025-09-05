@@ -1,0 +1,16 @@
+{
+  "id": "cliente-252",
+  "nombre": "Residencial Nova 1953",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Remodelación",
+  "metraje": 253,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-25"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pieza-55",
+  "nombre": "Cama Tapizada King Dorado",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Cama Tapizada King.",
+  "tags": [
+    "luxury",
+    "moderno",
+    "dorado"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "200x220x120 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

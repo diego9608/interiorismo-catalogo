@@ -1,0 +1,24 @@
+{
+  "id": "cómoda-6-cajones-13",
+  "nombre": "Cómoda 6 Cajones",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Cómoda 6 Cajones con diseño clásico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Cómoda 6 Cajones combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "clásico",
+    "funcional"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "120x50x80 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

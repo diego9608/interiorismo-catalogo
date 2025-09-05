@@ -1,0 +1,17 @@
+{
+  "id": "cliente-173",
+  "nombre": "Penthouse Angelópolis 709",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 254,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/14.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-06"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cliente-039",
+  "nombre": "Villa Cumbres 959",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Oficina",
+  "metraje": 115,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/40.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-04-15"
+}

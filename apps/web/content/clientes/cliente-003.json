@@ -1,0 +1,17 @@
+{
+  "id": "cliente-003",
+  "nombre": "Residencial Nova 1826",
+  "ciudad": "León",
+  "tipoProyecto": "Remodelación",
+  "metraje": 114,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/4.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-21"
+}

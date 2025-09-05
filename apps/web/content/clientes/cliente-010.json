@@ -1,0 +1,18 @@
+{
+  "id": "cliente-010",
+  "nombre": "Departamento Polanco 1187",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Comercial",
+  "metraje": 93,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/11.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-05-14"
+}

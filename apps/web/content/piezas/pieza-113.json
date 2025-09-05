@@ -1,0 +1,26 @@
+{
+  "id": "pieza-113",
+  "nombre": "Banco Alto Bar Arena",
+  "categoria": [
+    "Comedor",
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en arena del popular Banco Alto Bar.",
+  "tags": [
+    "industrial",
+    "bar",
+    "arena"
+  ],
+  "materiales": [
+    "metal",
+    "madera"
+  ],
+  "medidas": "40x40x75 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-5.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Económico",
+  "visible": true
+}

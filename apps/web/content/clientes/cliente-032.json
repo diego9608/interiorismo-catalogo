@@ -1,0 +1,16 @@
+{
+  "id": "cliente-032",
+  "nombre": "Casa Valle Real 1036",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Home Staging",
+  "metraje": 169,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/33.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-15"
+}

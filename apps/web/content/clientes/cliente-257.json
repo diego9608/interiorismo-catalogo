@@ -1,0 +1,16 @@
+{
+  "id": "cliente-257",
+  "nombre": "Villa Cumbres 1078",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Home Staging",
+  "metraje": 98,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/18.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-01-18"
+}

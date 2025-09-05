@@ -1,0 +1,16 @@
+{
+  "id": "cliente-088",
+  "nombre": "Residencial Altavista 1630",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Remodelación",
+  "metraje": 210,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-07-21"
+}

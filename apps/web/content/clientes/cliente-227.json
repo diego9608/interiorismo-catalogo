@@ -1,0 +1,16 @@
+{
+  "id": "cliente-227",
+  "nombre": "Departamento Polanco 1165",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Remodelación",
+  "metraje": 162,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-07-05"
+}

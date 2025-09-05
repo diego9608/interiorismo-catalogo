@@ -1,0 +1,18 @@
+{
+  "id": "cliente-161",
+  "nombre": "Penthouse Angelópolis 1668",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Home Staging",
+  "metraje": 98,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/2.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-13"
+}

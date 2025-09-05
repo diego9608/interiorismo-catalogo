@@ -1,0 +1,18 @@
+{
+  "id": "cliente-276",
+  "nombre": "Casa Valle Real 1722",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Remodelación",
+  "metraje": 73,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/37.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-08-19"
+}

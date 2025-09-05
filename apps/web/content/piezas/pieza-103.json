@@ -1,0 +1,24 @@
+{
+  "id": "pieza-103",
+  "nombre": "Buró Nogal Curvo Dorado",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Buró Nogal Curvo.",
+  "tags": [
+    "nórdico",
+    "orgánico",
+    "dorado"
+  ],
+  "materiales": [
+    "nogal"
+  ],
+  "medidas": "50x40x55 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

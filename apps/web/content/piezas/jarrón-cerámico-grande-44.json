@@ -1,0 +1,24 @@
+{
+  "id": "jarrón-cerámico-grande-44",
+  "nombre": "Jarrón Cerámico Grande",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Jarrón Cerámico Grande con diseño artesanal y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Jarrón Cerámico Grande combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "artesanal",
+    "statement"
+  ],
+  "materiales": [
+    "cerámica"
+  ],
+  "medidas": "30x30x50 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "planta-monstera-xl-43",
+  "nombre": "Planta Monstera XL",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Planta Monstera XL con diseño natural y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Planta Monstera XL combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "natural",
+    "tropical"
+  ],
+  "materiales": [
+    "natural"
+  ],
+  "medidas": "150 cm altura",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

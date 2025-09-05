@@ -1,0 +1,16 @@
+{
+  "id": "cliente-101",
+  "nombre": "Villa Cumbres 1920",
+  "ciudad": "León",
+  "tipoProyecto": "Comercial",
+  "metraje": 63,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/22.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-02"
+}

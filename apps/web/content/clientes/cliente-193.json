@@ -1,0 +1,17 @@
+{
+  "id": "cliente-193",
+  "nombre": "PH Olivo 1676",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Comercial",
+  "metraje": 223,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/34.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-11"
+}

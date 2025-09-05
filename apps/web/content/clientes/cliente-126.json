@@ -1,0 +1,16 @@
+{
+  "id": "cliente-126",
+  "nombre": "Casa Valle Real 1935",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Comercial",
+  "metraje": 96,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/7.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-21"
+}

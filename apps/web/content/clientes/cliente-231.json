@@ -1,0 +1,18 @@
+{
+  "id": "cliente-231",
+  "nombre": "Residencial Altavista 1022",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Amueblado",
+  "metraje": 159,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/32.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-12-05"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-296",
+  "nombre": "Departamento Polanco 821",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Home Staging",
+  "metraje": 163,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/17.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-23"
+}

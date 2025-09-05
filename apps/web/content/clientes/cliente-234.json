@@ -1,0 +1,16 @@
+{
+  "id": "cliente-234",
+  "nombre": "Residencial Altavista 1485",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Home Staging",
+  "metraje": 172,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/35.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-09"
+}

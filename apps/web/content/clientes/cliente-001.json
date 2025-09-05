@@ -1,0 +1,16 @@
+{
+  "id": "cliente-001",
+  "nombre": "PH Olivo 1965",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Comercial",
+  "metraje": 203,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/2.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-21"
+}

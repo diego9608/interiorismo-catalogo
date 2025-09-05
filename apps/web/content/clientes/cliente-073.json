@@ -1,0 +1,18 @@
+{
+  "id": "cliente-073",
+  "nombre": "Loft Roma Norte 1838",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Amueblado",
+  "metraje": 222,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/34.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-25"
+}

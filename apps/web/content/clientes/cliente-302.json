@@ -1,0 +1,18 @@
+{
+  "id": "cliente-302",
+  "nombre": "Local Comercial Centro 1041",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Home Staging",
+  "metraje": 155,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/23.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-06-28"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cliente-080",
+  "nombre": "PH Olivo 1559",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Oficina",
+  "metraje": 104,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/1.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-14"
+}

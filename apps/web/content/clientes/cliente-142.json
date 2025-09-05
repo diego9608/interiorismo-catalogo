@@ -1,0 +1,16 @@
+{
+  "id": "cliente-142",
+  "nombre": "Depto San Pedro 1776",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Comercial",
+  "metraje": 200,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/23.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-02"
+}

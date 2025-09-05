@@ -1,0 +1,25 @@
+{
+  "id": "pieza-70",
+  "nombre": "Barra Desayunador Natural",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en natural del popular Barra Desayunador.",
+  "tags": [
+    "moderno",
+    "compacto",
+    "natural"
+  ],
+  "materiales": [
+    "cuarzo",
+    "metal"
+  ],
+  "medidas": "180x40x110 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

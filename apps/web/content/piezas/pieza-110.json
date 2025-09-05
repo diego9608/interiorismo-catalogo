@@ -1,0 +1,25 @@
+{
+  "id": "pieza-110",
+  "nombre": "Mesa Redonda Mármol Natural",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en natural del popular Mesa Redonda Mármol.",
+  "tags": [
+    "luxury",
+    "elegante",
+    "natural"
+  ],
+  "materiales": [
+    "mármol",
+    "metal"
+  ],
+  "medidas": "120x120x75 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

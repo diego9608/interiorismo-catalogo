@@ -1,0 +1,16 @@
+{
+  "id": "cliente-332",
+  "nombre": "Torre Platinum 1620",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Home Staging",
+  "metraje": 108,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-11"
+}

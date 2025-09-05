@@ -1,0 +1,25 @@
+{
+  "id": "pieza-91",
+  "nombre": "Espejo Sol Dorado Negro",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en negro del popular Espejo Sol Dorado.",
+  "tags": [
+    "glamour",
+    "vintage",
+    "negro"
+  ],
+  "materiales": [
+    "metal",
+    "vidrio"
+  ],
+  "medidas": "80x80 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

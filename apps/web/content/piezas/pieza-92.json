@@ -1,0 +1,25 @@
+{
+  "id": "pieza-92",
+  "nombre": "Reloj Pared Minimalista Blanco",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Reloj Pared Minimalista.",
+  "tags": [
+    "moderno",
+    "funcional",
+    "blanco"
+  ],
+  "materiales": [
+    "madera",
+    "metal"
+  ],
+  "medidas": "40x40 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

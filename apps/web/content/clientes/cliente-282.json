@@ -1,0 +1,17 @@
+{
+  "id": "cliente-282",
+  "nombre": "Torre Platinum 1485",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Comercial",
+  "metraje": 193,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/3.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-09-26"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-170",
+  "nombre": "Casa Juriquilla 1991",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Oficina",
+  "metraje": 198,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/11.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-11-20"
+}

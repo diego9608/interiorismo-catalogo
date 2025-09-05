@@ -1,0 +1,25 @@
+{
+  "id": "carrito-auxiliar-26",
+  "nombre": "Carrito Auxiliar",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Carrito Auxiliar con diseño móvil y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Carrito Auxiliar combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "móvil",
+    "útil"
+  ],
+  "materiales": [
+    "bambú",
+    "metal"
+  ],
+  "medidas": "70x40x85 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

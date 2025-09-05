@@ -1,0 +1,18 @@
+{
+  "id": "cliente-038",
+  "nombre": "Depto San Pedro 910",
+  "ciudad": "León",
+  "tipoProyecto": "Comercial",
+  "metraje": 211,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/39.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-05"
+}

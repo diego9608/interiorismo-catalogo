@@ -1,0 +1,16 @@
+{
+  "id": "cliente-157",
+  "nombre": "Casa Valle Real 1172",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Home Staging",
+  "metraje": 77,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/38.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-12"
+}

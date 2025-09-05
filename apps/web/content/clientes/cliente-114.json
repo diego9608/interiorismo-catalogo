@@ -1,0 +1,17 @@
+{
+  "id": "cliente-114",
+  "nombre": "Casa Valle Real 1821",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Home Staging",
+  "metraje": 77,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/35.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-01-08"
+}

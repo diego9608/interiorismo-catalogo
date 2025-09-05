@@ -1,0 +1,16 @@
+{
+  "id": "cliente-324",
+  "nombre": "Casa Juriquilla 1921",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Oficina",
+  "metraje": 232,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/5.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-07-08"
+}

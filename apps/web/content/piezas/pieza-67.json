@@ -1,0 +1,26 @@
+{
+  "id": "pieza-67",
+  "nombre": "Banco Alto Bar Negro",
+  "categoria": [
+    "Comedor",
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en negro del popular Banco Alto Bar.",
+  "tags": [
+    "industrial",
+    "bar",
+    "negro"
+  ],
+  "materiales": [
+    "metal",
+    "madera"
+  ],
+  "medidas": "40x40x75 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pieza-106",
+  "nombre": "Espejo Cuerpo Completo Gris",
+  "categoria": [
+    "Recámara",
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en gris del popular Espejo Cuerpo Completo.",
+  "tags": [
+    "minimalista",
+    "gris"
+  ],
+  "materiales": [
+    "metal",
+    "vidrio"
+  ],
+  "medidas": "60x180 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

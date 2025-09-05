@@ -1,0 +1,25 @@
+{
+  "id": "cama-tapizada-king-9",
+  "nombre": "Cama Tapizada King",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Cama Tapizada King con diseño luxury y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Cama Tapizada King combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "luxury",
+    "moderno"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "200x220x120 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

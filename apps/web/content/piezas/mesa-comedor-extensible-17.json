@@ -1,0 +1,25 @@
+{
+  "id": "mesa-comedor-extensible-17",
+  "nombre": "Mesa Comedor Extensible",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Mesa Comedor Extensible con diseño moderno y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Mesa Comedor Extensible combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "moderno",
+    "versátil"
+  ],
+  "materiales": [
+    "MDF",
+    "metal"
+  ],
+  "medidas": "160-220x90x75 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

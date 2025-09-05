@@ -1,0 +1,18 @@
+{
+  "id": "cliente-005",
+  "nombre": "Studio Santa Fe 1353",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Comercial",
+  "metraje": 96,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/6.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-10-25"
+}

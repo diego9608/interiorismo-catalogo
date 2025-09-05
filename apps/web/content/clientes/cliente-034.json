@@ -1,0 +1,16 @@
+{
+  "id": "cliente-034",
+  "nombre": "Oficina Corporativa 1992",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Comercial",
+  "metraje": 215,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/35.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-08"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cliente-020",
+  "nombre": "Casa Valle Real 1964",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Home Staging",
+  "metraje": 140,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/21.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-07-04"
+}

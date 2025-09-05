@@ -1,0 +1,17 @@
+{
+  "id": "cliente-078",
+  "nombre": "Studio Santa Fe 1559",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Amueblado",
+  "metraje": 231,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/39.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-08-22"
+}

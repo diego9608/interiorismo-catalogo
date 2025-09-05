@@ -1,0 +1,16 @@
+{
+  "id": "cliente-251",
+  "nombre": "Studio Santa Fe 863",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Amueblado",
+  "metraje": 86,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/12.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-17"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-229",
+  "nombre": "Residencial Altavista 297",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Remodelación",
+  "metraje": 133,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-11"
+}

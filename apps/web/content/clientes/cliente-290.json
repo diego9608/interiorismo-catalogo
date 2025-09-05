@@ -1,0 +1,17 @@
+{
+  "id": "cliente-290",
+  "nombre": "Depto San Pedro 1106",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Oficina",
+  "metraje": 65,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/11.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-07-03"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mesa-centro-nogal-4",
+  "nombre": "Mesa Centro Nogal",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Mesa Centro Nogal con diseño nórdico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Mesa Centro Nogal combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "nórdico",
+    "natural"
+  ],
+  "materiales": [
+    "nogal",
+    "metal"
+  ],
+  "medidas": "120x60x40 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-5.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Económico",
+  "visible": true
+}

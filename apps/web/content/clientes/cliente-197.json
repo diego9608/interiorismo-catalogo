@@ -1,0 +1,16 @@
+{
+  "id": "cliente-197",
+  "nombre": "Loft Roma Norte 427",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Oficina",
+  "metraje": 232,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/38.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-07"
+}

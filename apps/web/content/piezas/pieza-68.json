@@ -1,0 +1,24 @@
+{
+  "id": "pieza-68",
+  "nombre": "Buffet Comedor Blanco",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Buffet Comedor.",
+  "tags": [
+    "clásico",
+    "almacenaje",
+    "blanco"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "160x45x80 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-018",
+  "nombre": "Residencial Altavista 305",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Home Staging",
+  "metraje": 119,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/19.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-08-18"
+}

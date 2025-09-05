@@ -1,0 +1,25 @@
+{
+  "id": "pieza-60",
+  "nombre": "Espejo Cuerpo Completo Blanco",
+  "categoria": [
+    "Recámara",
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Espejo Cuerpo Completo.",
+  "tags": [
+    "minimalista",
+    "blanco"
+  ],
+  "materiales": [
+    "metal",
+    "vidrio"
+  ],
+  "medidas": "60x180 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

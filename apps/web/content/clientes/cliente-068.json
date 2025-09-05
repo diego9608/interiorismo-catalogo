@@ -1,0 +1,18 @@
+{
+  "id": "cliente-068",
+  "nombre": "Departamento Polanco 1151",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Amueblado",
+  "metraje": 226,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/29.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-10-08"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-250",
+  "nombre": "Torre Gaia 371",
+  "ciudad": "León",
+  "tipoProyecto": "Remodelación",
+  "metraje": 116,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/11.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-05"
+}

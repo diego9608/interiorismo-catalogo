@@ -1,0 +1,25 @@
+{
+  "id": "pieza-52",
+  "nombre": "Credenza Rejilla Blanco",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Credenza Rejilla.",
+  "tags": [
+    "mid-century",
+    "vintage",
+    "blanco"
+  ],
+  "materiales": [
+    "madera",
+    "rejilla"
+  ],
+  "medidas": "180x45x70 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

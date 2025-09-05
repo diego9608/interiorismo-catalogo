@@ -1,0 +1,18 @@
+{
+  "id": "cliente-288",
+  "nombre": "Loft Roma Norte 1596",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Remodelación",
+  "metraje": 80,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-11-16"
+}

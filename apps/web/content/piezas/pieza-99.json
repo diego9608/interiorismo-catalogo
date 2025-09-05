@@ -1,0 +1,26 @@
+{
+  "id": "pieza-99",
+  "nombre": "Librero Industrial Negro",
+  "categoria": [
+    "Sala",
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en negro del popular Librero Industrial.",
+  "tags": [
+    "industrial",
+    "urbano",
+    "negro"
+  ],
+  "materiales": [
+    "metal",
+    "madera"
+  ],
+  "medidas": "180x40x200 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

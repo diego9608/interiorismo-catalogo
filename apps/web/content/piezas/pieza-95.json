@@ -1,0 +1,25 @@
+{
+  "id": "pieza-95",
+  "nombre": "Sofá Esquinero Gris Dorado",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Sofá Esquinero Gris.",
+  "tags": [
+    "moderno",
+    "minimalista",
+    "dorado"
+  ],
+  "materiales": [
+    "tela",
+    "metal"
+  ],
+  "medidas": "280x180x85 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

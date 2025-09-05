@@ -1,0 +1,17 @@
+{
+  "id": "cliente-164",
+  "nombre": "Penthouse Angelópolis 1882",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Remodelación",
+  "metraje": 144,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/5.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-03"
+}

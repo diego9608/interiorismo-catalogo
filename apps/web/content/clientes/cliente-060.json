@@ -1,0 +1,17 @@
+{
+  "id": "cliente-060",
+  "nombre": "Villa Cumbres 1476",
+  "ciudad": "León",
+  "tipoProyecto": "Comercial",
+  "metraje": 258,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/21.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-12"
+}

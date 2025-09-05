@@ -1,0 +1,25 @@
+{
+  "id": "pieza-63",
+  "nombre": "Mesa Comedor Extensible Dorado",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Mesa Comedor Extensible.",
+  "tags": [
+    "moderno",
+    "versátil",
+    "dorado"
+  ],
+  "materiales": [
+    "MDF",
+    "metal"
+  ],
+  "medidas": "160-220x90x75 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

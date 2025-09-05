@@ -1,0 +1,25 @@
+{
+  "id": "pieza-51",
+  "nombre": "Mesa Centro Mármol Negro",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en negro del popular Mesa Centro Mármol.",
+  "tags": [
+    "luxury",
+    "moderno",
+    "negro"
+  ],
+  "materiales": [
+    "mármol",
+    "bronce"
+  ],
+  "medidas": "130x70x35 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

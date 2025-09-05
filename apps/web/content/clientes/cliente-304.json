@@ -1,0 +1,16 @@
+{
+  "id": "cliente-304",
+  "nombre": "Departamento Polanco 1434",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Comercial",
+  "metraje": 151,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-19"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pieza-108",
+  "nombre": "Mesa Comedor Encino 8P Blanco",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Mesa Comedor Encino 8P.",
+  "tags": [
+    "rústico",
+    "familiar",
+    "blanco"
+  ],
+  "materiales": [
+    "encino"
+  ],
+  "medidas": "240x100x75 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

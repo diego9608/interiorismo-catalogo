@@ -1,0 +1,17 @@
+{
+  "id": "cliente-264",
+  "nombre": "Casa Juriquilla 412",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Home Staging",
+  "metraje": 179,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-09-10"
+}

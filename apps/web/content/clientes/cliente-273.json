@@ -1,0 +1,17 @@
+{
+  "id": "cliente-273",
+  "nombre": "Residencial Nova 1369",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Comercial",
+  "metraje": 173,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/34.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-07-08"
+}

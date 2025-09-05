@@ -1,0 +1,25 @@
+{
+  "id": "mesa-redonda-mármol-18",
+  "nombre": "Mesa Redonda Mármol",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Mesa Redonda Mármol con diseño luxury y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Mesa Redonda Mármol combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "luxury",
+    "elegante"
+  ],
+  "materiales": [
+    "mármol",
+    "metal"
+  ],
+  "medidas": "120x120x75 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

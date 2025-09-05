@@ -1,0 +1,25 @@
+{
+  "id": "pieza-101",
+  "nombre": "Cama Tapizada King Nogal",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Cama Tapizada King.",
+  "tags": [
+    "luxury",
+    "moderno",
+    "nogal"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "200x220x120 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-5.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Económico",
+  "visible": true
+}

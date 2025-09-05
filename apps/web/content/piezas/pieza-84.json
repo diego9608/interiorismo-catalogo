@@ -1,0 +1,24 @@
+{
+  "id": "pieza-84",
+  "nombre": "Lámpara Industrial Blanco",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Lámpara Industrial.",
+  "tags": [
+    "vintage",
+    "industrial",
+    "blanco"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "35x35x40 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

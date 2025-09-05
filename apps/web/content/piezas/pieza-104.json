@@ -1,0 +1,25 @@
+{
+  "id": "pieza-104",
+  "nombre": "Buró Flotante Plata",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en plata del popular Buró Flotante.",
+  "tags": [
+    "moderno",
+    "space-saving",
+    "plata"
+  ],
+  "materiales": [
+    "MDF",
+    "laca"
+  ],
+  "medidas": "45x30x25 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

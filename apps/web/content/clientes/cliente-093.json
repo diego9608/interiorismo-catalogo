@@ -1,0 +1,16 @@
+{
+  "id": "cliente-093",
+  "nombre": "Torre Platinum 397",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Comercial",
+  "metraje": 69,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/14.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-26"
+}

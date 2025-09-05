@@ -1,0 +1,16 @@
+{
+  "id": "cliente-041",
+  "nombre": "Residencial Altavista 682",
+  "ciudad": "León",
+  "tipoProyecto": "Oficina",
+  "metraje": 175,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/2.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-25"
+}

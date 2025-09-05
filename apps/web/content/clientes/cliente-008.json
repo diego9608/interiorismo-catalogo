@@ -1,0 +1,16 @@
+{
+  "id": "cliente-008",
+  "nombre": "Depto San Pedro 790",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Remodelación",
+  "metraje": 213,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-07-26"
+}

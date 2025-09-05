@@ -1,0 +1,25 @@
+{
+  "id": "credenza-rejilla-6",
+  "nombre": "Credenza Rejilla",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Credenza Rejilla con diseño mid-century y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Credenza Rejilla combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "mid-century",
+    "vintage"
+  ],
+  "materiales": [
+    "madera",
+    "rejilla"
+  ],
+  "medidas": "180x45x70 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-143",
+  "nombre": "Torre Platinum 413",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Home Staging",
+  "metraje": 168,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/24.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-15"
+}

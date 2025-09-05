@@ -1,0 +1,16 @@
+{
+  "id": "cliente-023",
+  "nombre": "Oficina Corporativa 1011",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Comercial",
+  "metraje": 177,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/24.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-12"
+}

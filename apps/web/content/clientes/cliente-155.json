@@ -1,0 +1,18 @@
+{
+  "id": "cliente-155",
+  "nombre": "Torre Platinum 491",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Amueblado",
+  "metraje": 81,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/36.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-11-22"
+}

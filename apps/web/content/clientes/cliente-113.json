@@ -1,0 +1,17 @@
+{
+  "id": "cliente-113",
+  "nombre": "Casa Juriquilla 842",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Comercial",
+  "metraje": 118,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/34.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-04-08"
+}

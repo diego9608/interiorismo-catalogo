@@ -1,0 +1,16 @@
+{
+  "id": "cliente-266",
+  "nombre": "Casa Juriquilla 824",
+  "ciudad": "León",
+  "tipoProyecto": "Oficina",
+  "metraje": 150,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-08"
+}

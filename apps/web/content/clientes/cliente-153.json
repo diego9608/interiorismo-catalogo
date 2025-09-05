@@ -1,0 +1,18 @@
+{
+  "id": "cliente-153",
+  "nombre": "Oficina Corporativa 1722",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Amueblado",
+  "metraje": 119,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/34.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-06-02"
+}

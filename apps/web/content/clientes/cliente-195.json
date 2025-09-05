@@ -1,0 +1,17 @@
+{
+  "id": "cliente-195",
+  "nombre": "Torre Gaia 756",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Oficina",
+  "metraje": 239,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/36.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-01"
+}

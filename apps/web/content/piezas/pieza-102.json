@@ -1,0 +1,24 @@
+{
+  "id": "pieza-102",
+  "nombre": "Cama Platform Queen Natural",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en natural del popular Cama Platform Queen.",
+  "tags": [
+    "minimalista",
+    "japonés",
+    "natural"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "160x200x30 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

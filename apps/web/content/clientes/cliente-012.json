@@ -1,0 +1,16 @@
+{
+  "id": "cliente-012",
+  "nombre": "Loft Roma Norte 1041",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Remodelación",
+  "metraje": 75,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-16"
+}

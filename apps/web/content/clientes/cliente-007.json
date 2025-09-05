@@ -1,0 +1,18 @@
+{
+  "id": "cliente-007",
+  "nombre": "Casa Juriquilla 1979",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Remodelación",
+  "metraje": 220,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/8.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-01-26"
+}

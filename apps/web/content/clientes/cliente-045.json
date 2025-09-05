@@ -1,0 +1,18 @@
+{
+  "id": "cliente-045",
+  "nombre": "PH Olivo 1275",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Remodelación",
+  "metraje": 143,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/6.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-06-21"
+}

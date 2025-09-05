@@ -1,0 +1,16 @@
+{
+  "id": "cliente-190",
+  "nombre": "Casa Valle Real 1426",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Remodelación",
+  "metraje": 80,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/31.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-03"
+}

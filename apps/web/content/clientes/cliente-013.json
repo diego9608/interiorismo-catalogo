@@ -1,0 +1,17 @@
+{
+  "id": "cliente-013",
+  "nombre": "PH Olivo 1100",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Amueblado",
+  "metraje": 146,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/14.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-10"
+}

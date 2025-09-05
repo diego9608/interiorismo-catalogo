@@ -1,0 +1,26 @@
+{
+  "id": "pieza-47",
+  "nombre": "Sofá Modular Lino Dorado",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Sofá Modular Lino.",
+  "tags": [
+    "mid-century",
+    "nórdico",
+    "blu-dot-like",
+    "dorado"
+  ],
+  "materiales": [
+    "lino",
+    "madera"
+  ],
+  "medidas": "230x95x70 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

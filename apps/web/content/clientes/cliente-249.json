@@ -1,0 +1,18 @@
+{
+  "id": "cliente-249",
+  "nombre": "Residencial Altavista 557",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Comercial",
+  "metraje": 205,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-12-21"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cliente-199",
+  "nombre": "Departamento Polanco 1306",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Oficina",
+  "metraje": 188,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/40.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-05"
+}

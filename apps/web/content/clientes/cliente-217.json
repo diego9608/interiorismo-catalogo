@@ -1,0 +1,16 @@
+{
+  "id": "cliente-217",
+  "nombre": "Casa Valle Real 367",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 182,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/18.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-16"
+}

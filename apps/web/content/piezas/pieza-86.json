@@ -1,0 +1,24 @@
+{
+  "id": "pieza-86",
+  "nombre": "Alfombra Persa Natural",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en natural del popular Alfombra Persa.",
+  "tags": [
+    "clásico",
+    "luxury",
+    "natural"
+  ],
+  "materiales": [
+    "lana"
+  ],
+  "medidas": "250x350 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-139",
+  "nombre": "Villa Cumbres 1735",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Home Staging",
+  "metraje": 153,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/20.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-08"
+}

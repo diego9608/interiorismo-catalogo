@@ -1,0 +1,17 @@
+{
+  "id": "cliente-316",
+  "nombre": "Residencial Altavista 365",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Comercial",
+  "metraje": 256,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/37.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-06-08"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-287",
+  "nombre": "Oficina Corporativa 1657",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Amueblado",
+  "metraje": 194,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/8.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-07-15"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-110",
+  "nombre": "Depto San Pedro 1892",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Home Staging",
+  "metraje": 213,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/31.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-05-22"
+}

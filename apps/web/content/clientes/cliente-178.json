@@ -1,0 +1,16 @@
+{
+  "id": "cliente-178",
+  "nombre": "Oficina Corporativa 1087",
+  "ciudad": "León",
+  "tipoProyecto": "Remodelación",
+  "metraje": 218,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/19.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-08"
+}

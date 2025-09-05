@@ -1,0 +1,25 @@
+{
+  "id": "banco-pie-de-cama-15",
+  "nombre": "Banco Pie de Cama",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Banco Pie de Cama con diseño elegante y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Banco Pie de Cama combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "elegante",
+    "práctico"
+  ],
+  "materiales": [
+    "tela",
+    "madera"
+  ],
+  "medidas": "120x40x45 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

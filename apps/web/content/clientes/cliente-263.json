@@ -1,0 +1,18 @@
+{
+  "id": "cliente-263",
+  "nombre": "Residencial Nova 972",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Amueblado",
+  "metraje": 235,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/24.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-01-08"
+}

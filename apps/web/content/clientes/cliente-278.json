@@ -1,0 +1,16 @@
+{
+  "id": "cliente-278",
+  "nombre": "Oficina Corporativa 1978",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Amueblado",
+  "metraje": 162,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/39.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-26"
+}

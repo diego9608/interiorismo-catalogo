@@ -1,0 +1,16 @@
+{
+  "id": "cliente-104",
+  "nombre": "Residencial Altavista 1977",
+  "ciudad": "León",
+  "tipoProyecto": "Comercial",
+  "metraje": 114,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-05"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "mesa-comedor-encino-8p-16",
+  "nombre": "Mesa Comedor Encino 8P",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Mesa Comedor Encino 8P con diseño rústico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Mesa Comedor Encino 8P combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "rústico",
+    "familiar"
+  ],
+  "materiales": [
+    "encino"
+  ],
+  "medidas": "240x100x75 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-5.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Económico",
+  "visible": true
+}

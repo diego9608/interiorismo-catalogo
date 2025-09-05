@@ -1,0 +1,25 @@
+{
+  "id": "pieza-74",
+  "nombre": "Escritorio Nórdico Slim Gris",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en gris del popular Escritorio Nórdico Slim.",
+  "tags": [
+    "minimalista",
+    "compacto",
+    "gris"
+  ],
+  "materiales": [
+    "madera",
+    "metal"
+  ],
+  "medidas": "120x60x75 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

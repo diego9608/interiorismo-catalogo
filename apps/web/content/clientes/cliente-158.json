@@ -1,0 +1,17 @@
+{
+  "id": "cliente-158",
+  "nombre": "PH Olivo 1538",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Amueblado",
+  "metraje": 128,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/39.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-18"
+}

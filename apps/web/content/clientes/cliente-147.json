@@ -1,0 +1,17 @@
+{
+  "id": "cliente-147",
+  "nombre": "Oficina Corporativa 408",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 208,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-09-25"
+}

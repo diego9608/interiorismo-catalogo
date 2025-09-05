@@ -1,0 +1,16 @@
+{
+  "id": "cliente-042",
+  "nombre": "Local Comercial Centro 538",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Oficina",
+  "metraje": 207,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/3.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-02"
+}

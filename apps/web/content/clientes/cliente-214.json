@@ -1,0 +1,17 @@
+{
+  "id": "cliente-214",
+  "nombre": "Oficina Corporativa 662",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Remodelación",
+  "metraje": 162,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/15.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-07"
+}

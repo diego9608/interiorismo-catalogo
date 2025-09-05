@@ -1,0 +1,17 @@
+{
+  "id": "cliente-319",
+  "nombre": "Depto San Pedro 785",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Comercial",
+  "metraje": 112,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/40.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-22"
+}

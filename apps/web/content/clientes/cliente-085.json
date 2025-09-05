@@ -1,0 +1,16 @@
+{
+  "id": "cliente-085",
+  "nombre": "Depto San Pedro 1005",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Oficina",
+  "metraje": 224,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/6.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-04"
+}

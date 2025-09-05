@@ -1,0 +1,25 @@
+{
+  "id": "isla-cocina-móvil-23",
+  "nombre": "Isla Cocina Móvil",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Isla Cocina Móvil con diseño funcional y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Isla Cocina Móvil combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "funcional",
+    "versátil"
+  ],
+  "materiales": [
+    "madera",
+    "acero"
+  ],
+  "medidas": "120x60x90 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

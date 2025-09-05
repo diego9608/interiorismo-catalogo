@@ -1,0 +1,17 @@
+{
+  "id": "cliente-255",
+  "nombre": "Penthouse Angelópolis 1336",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Amueblado",
+  "metraje": 209,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-09"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-225",
+  "nombre": "Torre Gaia 737",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Comercial",
+  "metraje": 171,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/26.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-02-01"
+}

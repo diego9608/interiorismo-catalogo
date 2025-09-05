@@ -1,0 +1,24 @@
+{
+  "id": "pieza-59",
+  "nombre": "Cómoda 6 Cajones Negro",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en negro del popular Cómoda 6 Cajones.",
+  "tags": [
+    "clásico",
+    "funcional",
+    "negro"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "120x50x80 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

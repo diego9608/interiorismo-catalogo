@@ -1,0 +1,16 @@
+{
+  "id": "cliente-117",
+  "nombre": "Departamento Polanco 2024",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 127,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/38.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-01-07"
+}

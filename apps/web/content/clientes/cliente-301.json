@@ -1,0 +1,17 @@
+{
+  "id": "cliente-301",
+  "nombre": "Oficina Corporativa 2091",
+  "ciudad": "San Miguel de Allende",
+  "tipoProyecto": "Remodelación",
+  "metraje": 193,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/22.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-20"
+}

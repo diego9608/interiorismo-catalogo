@@ -1,0 +1,18 @@
+{
+  "id": "cliente-053",
+  "nombre": "Local Comercial Centro 1100",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Comercial",
+  "metraje": 222,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/14.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-02-12"
+}

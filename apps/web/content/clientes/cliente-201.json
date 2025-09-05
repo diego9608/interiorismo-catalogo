@@ -1,0 +1,18 @@
+{
+  "id": "cliente-201",
+  "nombre": "Torre Platinum 1420",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 256,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/2.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-04-15"
+}

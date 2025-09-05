@@ -1,0 +1,18 @@
+{
+  "id": "cliente-169",
+  "nombre": "Residencial Altavista 1242",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Home Staging",
+  "metraje": 82,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-09-22"
+}

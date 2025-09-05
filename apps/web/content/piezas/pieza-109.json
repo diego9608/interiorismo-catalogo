@@ -1,0 +1,25 @@
+{
+  "id": "pieza-109",
+  "nombre": "Mesa Comedor Extensible Nogal",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Mesa Comedor Extensible.",
+  "tags": [
+    "moderno",
+    "versátil",
+    "nogal"
+  ],
+  "materiales": [
+    "MDF",
+    "metal"
+  ],
+  "medidas": "160-220x90x75 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

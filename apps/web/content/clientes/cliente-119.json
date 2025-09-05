@@ -1,0 +1,18 @@
+{
+  "id": "cliente-119",
+  "nombre": "Local Comercial Centro 403",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Home Staging",
+  "metraje": 101,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/40.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-05-06"
+}

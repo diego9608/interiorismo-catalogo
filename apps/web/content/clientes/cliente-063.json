@@ -1,0 +1,17 @@
+{
+  "id": "cliente-063",
+  "nombre": "Residencial Nova 1937",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Home Staging",
+  "metraje": 79,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/24.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-04-11"
+}

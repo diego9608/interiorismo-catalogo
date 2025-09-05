@@ -1,0 +1,16 @@
+{
+  "id": "cliente-224",
+  "nombre": "Villa Cumbres 1156",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Oficina",
+  "metraje": 224,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-07"
+}

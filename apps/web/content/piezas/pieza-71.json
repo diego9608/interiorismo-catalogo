@@ -1,0 +1,24 @@
+{
+  "id": "pieza-71",
+  "nombre": "Estante Especiero Dorado",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Estante Especiero.",
+  "tags": [
+    "organizador",
+    "práctico",
+    "dorado"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "60x15x80 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-11.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Premium",
+  "visible": true
+}

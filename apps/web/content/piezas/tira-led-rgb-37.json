@@ -1,0 +1,25 @@
+{
+  "id": "tira-led-rgb-37",
+  "nombre": "Tira LED RGB",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Tira LED RGB con diseño ambient y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Tira LED RGB combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "ambient",
+    "personalizable"
+  ],
+  "materiales": [
+    "silicona",
+    "LED"
+  ],
+  "medidas": "5 metros",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

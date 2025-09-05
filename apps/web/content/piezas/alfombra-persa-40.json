@@ -1,0 +1,24 @@
+{
+  "id": "alfombra-persa-40",
+  "nombre": "Alfombra Persa",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Alfombra Persa con diseño clásico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Alfombra Persa combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "clásico",
+    "luxury"
+  ],
+  "materiales": [
+    "lana"
+  ],
+  "medidas": "250x350 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-5.webp"
+  ],
+  "proveedor": "Taller Local",
+  "priceBand": "Económico",
+  "visible": true
+}

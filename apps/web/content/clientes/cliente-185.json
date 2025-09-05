@@ -1,0 +1,17 @@
+{
+  "id": "cliente-185",
+  "nombre": "Residencial Nova 694",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Home Staging",
+  "metraje": 191,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/26.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-12"
+}

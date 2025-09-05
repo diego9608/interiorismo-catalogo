@@ -1,0 +1,18 @@
+{
+  "id": "cliente-171",
+  "nombre": "Casa Valle Real 512",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Oficina",
+  "metraje": 142,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/12.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-08-15"
+}

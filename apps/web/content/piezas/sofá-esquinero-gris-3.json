@@ -1,0 +1,25 @@
+{
+  "id": "sofá-esquinero-gris-3",
+  "nombre": "Sofá Esquinero Gris",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Sofá Esquinero Gris con diseño moderno y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Sofá Esquinero Gris combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "moderno",
+    "minimalista"
+  ],
+  "materiales": [
+    "tela",
+    "metal"
+  ],
+  "medidas": "280x180x85 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

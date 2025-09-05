@@ -1,0 +1,18 @@
+{
+  "id": "cliente-292",
+  "nombre": "Torre Platinum 1242",
+  "ciudad": "León",
+  "tipoProyecto": "Home Staging",
+  "metraje": 193,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-09-28"
+}

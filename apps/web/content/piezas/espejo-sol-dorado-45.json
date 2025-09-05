@@ -1,0 +1,25 @@
+{
+  "id": "espejo-sol-dorado-45",
+  "nombre": "Espejo Sol Dorado",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Espejo Sol Dorado con diseño glamour y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Espejo Sol Dorado combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "glamour",
+    "vintage"
+  ],
+  "materiales": [
+    "metal",
+    "vidrio"
+  ],
+  "medidas": "80x80 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

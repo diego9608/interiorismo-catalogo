@@ -1,0 +1,16 @@
+{
+  "id": "cliente-037",
+  "nombre": "Local Comercial Centro 2060",
+  "ciudad": "Mérida",
+  "tipoProyecto": "Remodelación",
+  "metraje": 257,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/38.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-22"
+}

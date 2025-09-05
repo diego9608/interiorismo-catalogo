@@ -1,0 +1,25 @@
+{
+  "id": "alfombra-tejida-natural-39",
+  "nombre": "Alfombra Tejida Natural",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Alfombra Tejida Natural con diseño eco y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Alfombra Tejida Natural combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "eco",
+    "textura"
+  ],
+  "materiales": [
+    "yute",
+    "algodón"
+  ],
+  "medidas": "200x300 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

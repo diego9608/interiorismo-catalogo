@@ -1,0 +1,26 @@
+{
+  "id": "pieza-93",
+  "nombre": "Sofá Modular Lino Nogal",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en nogal del popular Sofá Modular Lino.",
+  "tags": [
+    "mid-century",
+    "nórdico",
+    "blu-dot-like",
+    "nogal"
+  ],
+  "materiales": [
+    "lino",
+    "madera"
+  ],
+  "medidas": "230x95x70 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

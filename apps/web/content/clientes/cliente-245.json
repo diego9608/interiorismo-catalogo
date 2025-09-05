@@ -1,0 +1,18 @@
+{
+  "id": "cliente-245",
+  "nombre": "Casa Juriquilla 1223",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Amueblado",
+  "metraje": 157,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/6.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-05-15"
+}

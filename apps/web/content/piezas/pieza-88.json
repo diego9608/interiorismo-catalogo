@@ -1,0 +1,25 @@
+{
+  "id": "pieza-88",
+  "nombre": "Set Cojines Texturas Plata",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en plata del popular Set Cojines Texturas.",
+  "tags": [
+    "acogedor",
+    "color",
+    "plata"
+  ],
+  "materiales": [
+    "tela",
+    "pluma"
+  ],
+  "medidas": "45x45 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

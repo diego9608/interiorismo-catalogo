@@ -1,0 +1,18 @@
+{
+  "id": "cliente-056",
+  "nombre": "Loft Roma Norte 432",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 79,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/17.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-08-02"
+}

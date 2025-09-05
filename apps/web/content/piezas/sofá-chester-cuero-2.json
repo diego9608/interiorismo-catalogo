@@ -1,0 +1,25 @@
+{
+  "id": "sofá-chester-cuero-2",
+  "nombre": "Sofá Chester Cuero",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Sofá Chester Cuero con diseño clásico y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Sofá Chester Cuero combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "clásico",
+    "elegante"
+  ],
+  "materiales": [
+    "cuero",
+    "madera"
+  ],
+  "medidas": "210x85x75 cm",
+  "color": "Negro",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

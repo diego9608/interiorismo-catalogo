@@ -1,0 +1,18 @@
+{
+  "id": "cliente-151",
+  "nombre": "Villa Cumbres 1650",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Comercial",
+  "metraje": 229,
+  "presupuestoBand": "Alto",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/32.webp",
+  "resumen": "Penthouse con vista panorámica y diseño contemporáneo sofisticado.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-09-17"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cliente-160",
+  "nombre": "Studio Santa Fe 2059",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Comercial",
+  "metraje": 173,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/1.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-09-25"
+}

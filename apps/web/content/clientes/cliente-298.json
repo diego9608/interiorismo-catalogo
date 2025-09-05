@@ -1,0 +1,16 @@
+{
+  "id": "cliente-298",
+  "nombre": "Departamento Polanco 1347",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Amueblado",
+  "metraje": 146,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/19.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-23"
+}

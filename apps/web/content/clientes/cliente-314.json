@@ -1,0 +1,17 @@
+{
+  "id": "cliente-314",
+  "nombre": "Studio Santa Fe 747",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Oficina",
+  "metraje": 143,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/35.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-18"
+}

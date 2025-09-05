@@ -1,0 +1,17 @@
+{
+  "id": "cliente-202",
+  "nombre": "Casa Juriquilla 2000",
+  "ciudad": "Playa del Carmen",
+  "tipoProyecto": "Amueblado",
+  "metraje": 183,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/3.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-12"
+}

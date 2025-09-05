@@ -1,0 +1,16 @@
+{
+  "id": "cliente-092",
+  "nombre": "PH Olivo 673",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Amueblado",
+  "metraje": 151,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/13.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-05-28"
+}

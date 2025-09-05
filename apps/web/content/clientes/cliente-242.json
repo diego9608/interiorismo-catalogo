@@ -1,0 +1,17 @@
+{
+  "id": "cliente-242",
+  "nombre": "Villa Cumbres 894",
+  "ciudad": "Tijuana",
+  "tipoProyecto": "Home Staging",
+  "metraje": 164,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/3.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-10-21"
+}

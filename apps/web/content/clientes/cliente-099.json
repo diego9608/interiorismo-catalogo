@@ -1,0 +1,16 @@
+{
+  "id": "cliente-099",
+  "nombre": "Studio Santa Fe 404",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Remodelación",
+  "metraje": 201,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/20.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-07"
+}

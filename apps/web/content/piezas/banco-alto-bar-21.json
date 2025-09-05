@@ -1,0 +1,26 @@
+{
+  "id": "banco-alto-bar-21",
+  "nombre": "Banco Alto Bar",
+  "categoria": [
+    "Comedor",
+    "Cocina"
+  ],
+  "descripcionCorta": "Banco Alto Bar con diseño industrial y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Banco Alto Bar combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "industrial",
+    "bar"
+  ],
+  "materiales": [
+    "metal",
+    "madera"
+  ],
+  "medidas": "40x40x75 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

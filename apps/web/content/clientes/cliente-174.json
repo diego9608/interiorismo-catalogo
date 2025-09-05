@@ -1,0 +1,16 @@
+{
+  "id": "cliente-174",
+  "nombre": "Torre Gaia 119",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Remodelación",
+  "metraje": 210,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/15.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-11"
+}

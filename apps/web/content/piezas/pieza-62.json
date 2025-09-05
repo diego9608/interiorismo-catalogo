@@ -1,0 +1,24 @@
+{
+  "id": "pieza-62",
+  "nombre": "Mesa Comedor Encino 8P Natural",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en natural del popular Mesa Comedor Encino 8P.",
+  "tags": [
+    "rústico",
+    "familiar",
+    "natural"
+  ],
+  "materiales": [
+    "encino"
+  ],
+  "medidas": "240x100x75 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

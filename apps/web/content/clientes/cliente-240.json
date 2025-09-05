@@ -1,0 +1,16 @@
+{
+  "id": "cliente-240",
+  "nombre": "Penthouse Angelópolis 1842",
+  "ciudad": "CDMX",
+  "tipoProyecto": "Comercial",
+  "metraje": 178,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/1.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-16"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-074",
+  "nombre": "Departamento Polanco 1885",
+  "ciudad": "León",
+  "tipoProyecto": "Comercial",
+  "metraje": 202,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/35.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-07"
+}

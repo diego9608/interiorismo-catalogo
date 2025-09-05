@@ -1,0 +1,17 @@
+{
+  "id": "cliente-305",
+  "nombre": "Departamento Polanco 1207",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Remodelación",
+  "metraje": 194,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/26.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-26"
+}

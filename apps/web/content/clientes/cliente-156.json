@@ -1,0 +1,16 @@
+{
+  "id": "cliente-156",
+  "nombre": "Local Comercial Centro 1467",
+  "ciudad": "León",
+  "tipoProyecto": "Amueblado",
+  "metraje": 124,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/37.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-20"
+}

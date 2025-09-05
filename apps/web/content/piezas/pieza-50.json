@@ -1,0 +1,25 @@
+{
+  "id": "pieza-50",
+  "nombre": "Mesa Centro Nogal Gris",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en gris del popular Mesa Centro Nogal.",
+  "tags": [
+    "nórdico",
+    "natural",
+    "gris"
+  ],
+  "materiales": [
+    "nogal",
+    "metal"
+  ],
+  "medidas": "120x60x40 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-2.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Medio",
+  "visible": true
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pieza-79",
+  "nombre": "Lámpara Colgante Disco Dorado",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Variación en dorado del popular Lámpara Colgante Disco.",
+  "tags": [
+    "moderno",
+    "statement",
+    "dorado"
+  ],
+  "materiales": [
+    "metal"
+  ],
+  "medidas": "40x40x30 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-7.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Premium",
+  "visible": true
+}

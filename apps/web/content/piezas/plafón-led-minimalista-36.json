@@ -1,0 +1,25 @@
+{
+  "id": "plafón-led-minimalista-36",
+  "nombre": "Plafón LED Minimalista",
+  "categoria": [
+    "Iluminación"
+  ],
+  "descripcionCorta": "Plafón LED Minimalista con diseño eficiente y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Plafón LED Minimalista combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "eficiente",
+    "discreto"
+  ],
+  "materiales": [
+    "aluminio",
+    "acrílico"
+  ],
+  "medidas": "60x60x8 cm",
+  "color": "Nogal",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

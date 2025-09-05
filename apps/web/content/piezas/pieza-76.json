@@ -1,0 +1,25 @@
+{
+  "id": "pieza-76",
+  "nombre": "Silla Gaming Premium Blanco",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Silla Gaming Premium.",
+  "tags": [
+    "gaming",
+    "comfort",
+    "blanco"
+  ],
+  "materiales": [
+    "cuero sintético",
+    "metal"
+  ],
+  "medidas": "70x70x130 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-4.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Luxury",
+  "visible": true
+}

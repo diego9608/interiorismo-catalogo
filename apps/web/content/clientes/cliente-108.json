@@ -1,0 +1,16 @@
+{
+  "id": "cliente-108",
+  "nombre": "Studio Santa Fe 1123",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Comercial",
+  "metraje": 85,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/29.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-15"
+}

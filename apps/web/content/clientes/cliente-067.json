@@ -1,0 +1,17 @@
+{
+  "id": "cliente-067",
+  "nombre": "PH Olivo 276",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Oficina",
+  "metraje": 187,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-23"
+}

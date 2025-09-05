@@ -1,0 +1,16 @@
+{
+  "id": "cliente-309",
+  "nombre": "Penthouse Angelópolis 202",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Oficina",
+  "metraje": 230,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-27"
+}

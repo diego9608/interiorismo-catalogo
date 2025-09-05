@@ -1,0 +1,16 @@
+{
+  "id": "cliente-149",
+  "nombre": "PH Olivo 1811",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Comercial",
+  "metraje": 235,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-06-06"
+}

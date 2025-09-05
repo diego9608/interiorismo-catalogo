@@ -1,0 +1,18 @@
+{
+  "id": "cliente-256",
+  "nombre": "Residencial Altavista 940",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Home Staging",
+  "metraje": 161,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/17.webp",
+  "resumen": "Espacio comercial boutique con identidad de marca integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-06-22"
+}

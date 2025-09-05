@@ -1,0 +1,17 @@
+{
+  "id": "cliente-335",
+  "nombre": "Departamento Polanco 432",
+  "ciudad": "León",
+  "tipoProyecto": "Amueblado",
+  "metraje": 222,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/16.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-10-17"
+}

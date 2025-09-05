@@ -1,0 +1,18 @@
+{
+  "id": "cliente-064",
+  "nombre": "Studio Santa Fe 504",
+  "ciudad": "Guadalajara",
+  "tipoProyecto": "Remodelación",
+  "metraje": 246,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-04-20"
+}

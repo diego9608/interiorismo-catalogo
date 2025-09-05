@@ -1,0 +1,18 @@
+{
+  "id": "cliente-329",
+  "nombre": "Residencial Altavista 447",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 154,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/10.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-11-20"
+}

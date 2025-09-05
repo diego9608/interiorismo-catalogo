@@ -1,0 +1,16 @@
+{
+  "id": "cliente-299",
+  "nombre": "Local Comercial Centro 424",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Remodelación",
+  "metraje": 108,
+  "presupuestoBand": "Medio",
+  "estado": "Diseño",
+  "portada": "/mock/clients/20.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-26"
+}

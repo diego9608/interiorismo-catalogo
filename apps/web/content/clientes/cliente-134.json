@@ -1,0 +1,16 @@
+{
+  "id": "cliente-134",
+  "nombre": "Depto San Pedro 1520",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Comercial",
+  "metraje": 253,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/15.webp",
+  "resumen": "Remodelación integral con acabados de lujo y diseño minimalista.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-01-15"
+}

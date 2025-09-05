@@ -1,0 +1,25 @@
+{
+  "id": "pieza-97",
+  "nombre": "Mesa Centro Mármol Arena",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en arena del popular Mesa Centro Mármol.",
+  "tags": [
+    "luxury",
+    "moderno",
+    "arena"
+  ],
+  "materiales": [
+    "mármol",
+    "bronce"
+  ],
+  "medidas": "130x70x35 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

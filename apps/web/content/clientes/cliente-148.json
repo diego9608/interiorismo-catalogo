@@ -1,0 +1,17 @@
+{
+  "id": "cliente-148",
+  "nombre": "Torre Platinum 1346",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Home Staging",
+  "metraje": 212,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/29.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-02-27"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cliente-186",
+  "nombre": "Depto San Pedro 2058",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Comercial",
+  "metraje": 60,
+  "presupuestoBand": "Medio",
+  "estado": "Entregado",
+  "portada": "/mock/clients/27.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-04-17"
+}

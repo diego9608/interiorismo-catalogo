@@ -1,0 +1,17 @@
+{
+  "id": "cliente-208",
+  "nombre": "Studio Santa Fe 1242",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Remodelación",
+  "metraje": 149,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-05-08"
+}

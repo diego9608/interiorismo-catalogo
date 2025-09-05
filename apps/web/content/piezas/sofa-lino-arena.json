@@ -1,0 +1,15 @@
+{
+  "id": "sofa-lino-arena",
+  "nombre": "Sofá modular Lino Arena",
+  "categoria": ["Sala"],
+  "descripcionCorta": "Mid-century cálido con base de madera, tapizado en lino.",
+  "descripcionLarga": "Sofá modular de diseño atemporal que combina la elegancia del estilo mid-century con la calidez de los materiales naturales. Su tapizado en lino de alta calidad ofrece durabilidad y confort, mientras que la base de madera sólida aporta estabilidad y un toque orgánico.",
+  "tags": ["mid-century", "nórdico", "blu-dot-like"],
+  "materiales": ["lino", "madera"],
+  "medidas": "230x95x70 cm",
+  "color": "Arena",
+  "imagenes": ["/renders/piezas/sofa-lino-01.webp"],
+  "proveedor": "GAIA",
+  "priceBand": "Medio",
+  "visible": true
+}

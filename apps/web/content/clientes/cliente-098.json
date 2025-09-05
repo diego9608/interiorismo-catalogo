@@ -1,0 +1,17 @@
+{
+  "id": "cliente-098",
+  "nombre": "Penthouse Angelópolis 800",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Amueblado",
+  "metraje": 103,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/19.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-12-19"
+}

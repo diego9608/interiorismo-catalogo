@@ -1,0 +1,25 @@
+{
+  "id": "pieza-58",
+  "nombre": "Buró Flotante Gris",
+  "categoria": [
+    "Recámara"
+  ],
+  "descripcionCorta": "Variación en gris del popular Buró Flotante.",
+  "tags": [
+    "moderno",
+    "space-saving",
+    "gris"
+  ],
+  "materiales": [
+    "MDF",
+    "laca"
+  ],
+  "medidas": "45x30x25 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-10.webp"
+  ],
+  "proveedor": "CB2",
+  "priceBand": "Medio",
+  "visible": true
+}

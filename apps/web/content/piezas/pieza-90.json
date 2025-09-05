@@ -1,0 +1,24 @@
+{
+  "id": "pieza-90",
+  "nombre": "Jarrón Cerámico Grande Gris",
+  "categoria": [
+    "Decoración"
+  ],
+  "descripcionCorta": "Variación en gris del popular Jarrón Cerámico Grande.",
+  "tags": [
+    "artesanal",
+    "statement",
+    "gris"
+  ],
+  "materiales": [
+    "cerámica"
+  ],
+  "medidas": "30x30x50 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

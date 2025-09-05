@@ -1,0 +1,16 @@
+{
+  "id": "cliente-024",
+  "nombre": "Oficina Corporativa 334",
+  "ciudad": "León",
+  "tipoProyecto": "Amueblado",
+  "metraje": 227,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/25.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-06"
+}

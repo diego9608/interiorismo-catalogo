@@ -1,0 +1,25 @@
+{
+  "id": "pieza-116",
+  "nombre": "Barra Desayunador Blanco",
+  "categoria": [
+    "Cocina"
+  ],
+  "descripcionCorta": "Variación en blanco del popular Barra Desayunador.",
+  "tags": [
+    "moderno",
+    "compacto",
+    "blanco"
+  ],
+  "materiales": [
+    "cuarzo",
+    "metal"
+  ],
+  "medidas": "180x40x110 cm",
+  "color": "Blanco",
+  "imagenes": [
+    "/renders/piezas/mock-8.webp"
+  ],
+  "proveedor": "Moblum",
+  "priceBand": "Luxury",
+  "visible": true
+}

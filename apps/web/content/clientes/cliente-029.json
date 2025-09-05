@@ -1,0 +1,18 @@
+{
+  "id": "cliente-029",
+  "nombre": "Penthouse Angelópolis 933",
+  "ciudad": "Chihuahua",
+  "tipoProyecto": "Comercial",
+  "metraje": 193,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/30.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-10-14"
+}

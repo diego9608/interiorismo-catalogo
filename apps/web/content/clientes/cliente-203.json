@@ -1,0 +1,17 @@
+{
+  "id": "cliente-203",
+  "nombre": "Torre Gaia 138",
+  "ciudad": "León",
+  "tipoProyecto": "Oficina",
+  "metraje": 182,
+  "presupuestoBand": "Premium",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/4.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-06-11"
+}

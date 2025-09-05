@@ -1,0 +1,16 @@
+{
+  "id": "cliente-097",
+  "nombre": "Residencial Nova 1811",
+  "ciudad": "León",
+  "tipoProyecto": "Oficina",
+  "metraje": 189,
+  "presupuestoBand": "Bajo",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/18.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-12-28"
+}

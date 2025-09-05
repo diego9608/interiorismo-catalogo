@@ -1,0 +1,25 @@
+{
+  "id": "pieza-49",
+  "nombre": "Sofá Esquinero Gris Arena",
+  "categoria": [
+    "Sala"
+  ],
+  "descripcionCorta": "Variación en arena del popular Sofá Esquinero Gris.",
+  "tags": [
+    "moderno",
+    "minimalista",
+    "arena"
+  ],
+  "materiales": [
+    "tela",
+    "metal"
+  ],
+  "medidas": "280x180x85 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-1.webp"
+  ],
+  "proveedor": "GAIA",
+  "priceBand": "Económico",
+  "visible": true
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cliente-328",
+  "nombre": "Local Comercial Centro 379",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Oficina",
+  "metraje": 198,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/9.webp",
+  "resumen": "Home staging express para venta rápida con alto impacto visual.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-11-27"
+}

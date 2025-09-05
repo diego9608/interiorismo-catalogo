@@ -1,0 +1,25 @@
+{
+  "id": "mesa-juntas-6p-32",
+  "nombre": "Mesa Juntas 6P",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Mesa Juntas 6P con diseño corporativo y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Mesa Juntas 6P combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "corporativo",
+    "moderno"
+  ],
+  "materiales": [
+    "vidrio",
+    "metal"
+  ],
+  "medidas": "200x100x75 cm",
+  "color": "Arena",
+  "imagenes": [
+    "/renders/piezas/mock-9.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Económico",
+  "visible": true
+}

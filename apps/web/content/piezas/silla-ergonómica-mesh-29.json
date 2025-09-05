@@ -1,0 +1,25 @@
+{
+  "id": "silla-ergonómica-mesh-29",
+  "nombre": "Silla Ergonómica Mesh",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Silla Ergonómica Mesh con diseño comfort y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Silla Ergonómica Mesh combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "comfort",
+    "salud"
+  ],
+  "materiales": [
+    "mesh",
+    "plástico"
+  ],
+  "medidas": "65x65x120 cm",
+  "color": "Natural",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

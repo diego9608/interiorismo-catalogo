@@ -1,0 +1,18 @@
+{
+  "id": "cliente-259",
+  "nombre": "Penthouse Angelópolis 1477",
+  "ciudad": "Puebla",
+  "tipoProyecto": "Comercial",
+  "metraje": 172,
+  "presupuestoBand": "Alto",
+  "estado": "Diseño",
+  "portada": "/mock/clients/20.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-01-01"
+}

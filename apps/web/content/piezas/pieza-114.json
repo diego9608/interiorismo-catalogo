@@ -1,0 +1,24 @@
+{
+  "id": "pieza-114",
+  "nombre": "Buffet Comedor Gris",
+  "categoria": [
+    "Comedor"
+  ],
+  "descripcionCorta": "Variación en gris del popular Buffet Comedor.",
+  "tags": [
+    "clásico",
+    "almacenaje",
+    "gris"
+  ],
+  "materiales": [
+    "madera"
+  ],
+  "medidas": "160x45x80 cm",
+  "color": "Gris",
+  "imagenes": [
+    "/renders/piezas/mock-6.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Medio",
+  "visible": true
+}

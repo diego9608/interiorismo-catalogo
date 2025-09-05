@@ -1,0 +1,25 @@
+{
+  "id": "espejo-cuerpo-completo-14",
+  "nombre": "Espejo Cuerpo Completo",
+  "categoria": [
+    "Recámara",
+    "Decoración"
+  ],
+  "descripcionCorta": "Espejo Cuerpo Completo con diseño minimalista y acabados de alta calidad.",
+  "descripcionLarga": "Pieza premium de nuestra colección exclusiva. Espejo Cuerpo Completo combina funcionalidad y estética con materiales de primera calidad. Ideal para espacios modernos que buscan calidez y sofisticación.",
+  "tags": [
+    "minimalista"
+  ],
+  "materiales": [
+    "metal",
+    "vidrio"
+  ],
+  "medidas": "60x180 cm",
+  "color": "Dorado",
+  "imagenes": [
+    "/renders/piezas/mock-3.webp"
+  ],
+  "proveedor": "West Elm",
+  "priceBand": "Premium",
+  "visible": true
+}

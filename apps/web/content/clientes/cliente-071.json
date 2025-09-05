@@ -1,0 +1,16 @@
+{
+  "id": "cliente-071",
+  "nombre": "Residencial Nova 339",
+  "ciudad": "Monterrey",
+  "tipoProyecto": "Comercial",
+  "metraje": 238,
+  "presupuestoBand": "Premium",
+  "estado": "Diseño",
+  "portada": "/mock/clients/32.webp",
+  "resumen": "Departamento completamente amueblado estilo mid-century moderno.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-08-15"
+}

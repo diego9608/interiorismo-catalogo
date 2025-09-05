@@ -1,0 +1,25 @@
+{
+  "id": "pieza-120",
+  "nombre": "Escritorio Nórdico Slim Plata",
+  "categoria": [
+    "Oficina"
+  ],
+  "descripcionCorta": "Variación en plata del popular Escritorio Nórdico Slim.",
+  "tags": [
+    "minimalista",
+    "compacto",
+    "plata"
+  ],
+  "materiales": [
+    "madera",
+    "metal"
+  ],
+  "medidas": "120x60x75 cm",
+  "color": "Plata",
+  "imagenes": [
+    "/renders/piezas/mock-12.webp"
+  ],
+  "proveedor": "Importación Directa",
+  "priceBand": "Luxury",
+  "visible": true
+}

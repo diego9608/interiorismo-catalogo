@@ -1,0 +1,18 @@
+{
+  "id": "cliente-237",
+  "nombre": "Studio Santa Fe 1858",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Oficina",
+  "metraje": 123,
+  "presupuestoBand": "Premium",
+  "estado": "Entregado",
+  "portada": "/mock/clients/38.webp",
+  "resumen": "Oficina ejecutiva con diseño ergonómico y tecnología integrada.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-01-24"
+}

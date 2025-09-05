@@ -1,0 +1,16 @@
+{
+  "id": "cliente-267",
+  "nombre": "Departamento Polanco 1771",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Home Staging",
+  "metraje": 200,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/28.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-10-10"
+}

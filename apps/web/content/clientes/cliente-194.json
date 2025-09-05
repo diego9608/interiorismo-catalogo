@@ -1,0 +1,16 @@
+{
+  "id": "cliente-194",
+  "nombre": "Torre Platinum 1452",
+  "ciudad": "Cancún",
+  "tipoProyecto": "Amueblado",
+  "metraje": 125,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/35.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-04-04"
+}

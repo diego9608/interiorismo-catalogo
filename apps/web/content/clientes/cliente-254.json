@@ -1,0 +1,17 @@
+{
+  "id": "cliente-254",
+  "nombre": "PH Olivo 449",
+  "ciudad": "Toluca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 256,
+  "presupuestoBand": "Alto",
+  "estado": "Entregado",
+  "portada": "/mock/clients/15.webp",
+  "resumen": "Studio funcional optimizado para máximo aprovechamiento del espacio.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-11-09"
+}

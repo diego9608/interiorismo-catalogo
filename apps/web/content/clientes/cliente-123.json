@@ -1,0 +1,18 @@
+{
+  "id": "cliente-123",
+  "nombre": "Villa Cumbres 1059",
+  "ciudad": "La Paz",
+  "tipoProyecto": "Comercial",
+  "metraje": 159,
+  "presupuestoBand": "Medio",
+  "estado": "Ejecución",
+  "portada": "/mock/clients/4.webp",
+  "resumen": "Casa familiar con espacios abiertos y materiales naturales.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3",
+    "cama-4"
+  ],
+  "fechaEntrega": "2025-11-21"
+}

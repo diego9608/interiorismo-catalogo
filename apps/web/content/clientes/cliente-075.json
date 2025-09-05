@@ -1,0 +1,16 @@
+{
+  "id": "cliente-075",
+  "nombre": "Penthouse Angelópolis 797",
+  "ciudad": "Querétaro",
+  "tipoProyecto": "Remodelación",
+  "metraje": 259,
+  "presupuestoBand": "Bajo",
+  "estado": "Entregado",
+  "portada": "/mock/clients/36.webp",
+  "resumen": "Remodelación de baños y cocina con acabados premium importados.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2"
+  ],
+  "fechaEntrega": "2025-09-24"
+}

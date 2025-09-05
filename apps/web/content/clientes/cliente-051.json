@@ -1,0 +1,17 @@
+{
+  "id": "cliente-051",
+  "nombre": "Depto San Pedro 1513",
+  "ciudad": "Oaxaca",
+  "tipoProyecto": "Amueblado",
+  "metraje": 92,
+  "presupuestoBand": "Bajo",
+  "estado": "Diseño",
+  "portada": "/mock/clients/12.webp",
+  "resumen": "Amueblado moderno y cálido con acentos naturales para renta premium.",
+  "piezasClave": [
+    "sofa-1",
+    "mesa-2",
+    "lampara-3"
+  ],
+  "fechaEntrega": "2025-03-14"
+}
