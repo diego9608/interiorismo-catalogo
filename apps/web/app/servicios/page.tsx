@@ -166,7 +166,7 @@ export default function ServiciosPage() {
         <section className="mt-20 rounded-3xl bg-gradient-to-br from-[#D4AF37]/20 to-transparent p-8 md:p-12">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Paquete "BD-Style" (Competidor Killer)
+              Paquete &quot;BD-Style&quot; (Competidor Killer)
             </h2>
             <p className="text-lg text-white/80 mb-8">
               La estética Blu Dot que te gusta, mejorada con más calidez, texturas y accesorios por el mismo presupuesto.

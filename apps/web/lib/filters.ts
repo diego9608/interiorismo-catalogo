@@ -16,7 +16,7 @@ export function filterByCategory<T extends { categoria?: string[] }>(
 ): T[] {
   if (!category || category === 'all') return items
   return items.filter(item => 
-    item.categoria?.includes(category as any)
+    item.categoria?.includes(category)
   )
 }
 
