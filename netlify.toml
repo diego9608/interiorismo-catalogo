@@ -1,0 +1,13 @@
+[build]
+  command = "cd apps/web && npm ci && npm run build"
+  publish = "apps/web/out"
+
+[[headers]]
+  for = "/_next/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/renders/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
